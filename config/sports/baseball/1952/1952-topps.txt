@@ -1,0 +1,407 @@
+1 Andy Pafko - Brooklyn Dodgers
+2 Pete Runnels - Washington Senators
+3 Hank Thompson - New York Giants
+4 Don Lenhardt - Boston Red Sox
+5 Larry Jansen - New York Giants
+6 Grady Hatton - Cincinnati Reds
+7 Wayne Terwilliger - Brooklyn Dodgers
+8 Fred Marsh - St. Louis Browns
+9 Bobby Hogue - New York Yankees
+10 Al Rosen - Cleveland Indians
+11 Phil Rizzuto - New York Yankees
+12 Monty Basgall - Pittsburgh Pirates
+13 Johnny Wyrostek - Cincinnati Reds
+14 Bob Elliott - Boston Braves
+15 Johnny Pesky - Boston Red Sox
+16 Gene Hermanski - Chicago Cubs
+17 Jim Hegan - Cleveland Indians
+18 Merrill Combs - Cleveland Indians
+19 Johnny Bucha - St. Louis Cardinals
+20 Billy Loes - Brooklyn Dodgers
+21 Ferris Fain - Philadelphia Athletics
+22 Dom DiMaggio - Boston Red Sox
+23 Billy Goodman - Boston Red Sox
+24 Luke Easter - Cleveland Indians
+25 Johnny Groth - Detroit Tigers
+26 Monte Irvin - New York Giants
+27 Sam Jethroe - Boston Braves
+28 Jerry Priddy - Detroit Tigers
+29 Ted Kluszewski - Cincinnati Reds
+30 Mel Parnell - Boston Red Sox
+31 Gus Zernial - Philadelphia Athletics
+32 Eddie Robinson - Chicago White Sox
+33 Warren Spahn - Boston Braves
+34 Elmer Valo - Philadelphia Athletics
+35 Hank Sauer - Chicago Cubs
+36 Gil Hodges - Brooklyn Dodgers
+37 Duke Snider - Brooklyn Dodgers
+38 Wally Westlake - St. Louis Cardinals
+39 Dizzy Trout - Detroit Tigers
+40 Irv Noren - Washington Senators
+41 Bob Wellman - Philadelphia Athletics
+42 Lou Kretlow - Chicago White Sox
+43 Ray Scarborough - Boston Red Sox
+44 Con Dempsey - Philadelphia Phillies
+45 Eddie Joost - Philadelphia Athletics
+46 Gordon Goldsberry - St. Louis Browns
+47 Willie Jones - Philadelphia Phillies
+48 Joe Page - New York Yankees
+49 Johnny Sain - New York Yankees
+50 Marv Rickert - Chicago White Sox
+51 Jim Russell - Brooklyn Dodgers
+52 Don Mueller - New York Giants
+53 Chris Van Cuyk - Brooklyn Dodgers
+54 Leo Kiely - Boston Red Sox
+55 Ray Boone - Cleveland Indians
+56 Tommy Glaviano - St. Louis Cardinals
+57 Ed Lopat - New York Yankees
+58 Bob Mahoney - St. Louis Browns
+59 Robin Roberts - Philadelphia Phillies
+60 Sid Hudson - Washington Senators
+61 Tookie Gilbert - New York Giants
+62 Chuck Stobbs - Chicago White Sox
+63 Howie Pollet - Pittsburgh Pirates
+64 Roy Sievers - St. Louis Browns
+65 Enos Slaughter - St. Louis Cardinals
+66 Preacher Roe - Brooklyn Dodgers
+67 Allie Reynolds - New York Yankees
+68 Cliff Chambers - St. Louis Cardinals
+69 Virgil Stallcup - Cincinnati Reds
+70 Al Zarilla - Chicago White Sox
+71 Tom Upton - Washington Senators
+72 Karl Olson - Boston Red Sox
+73 Bill Werle - Pittsburgh Pirates
+74 Andy Hansen - Philadelphia Phillies
+75 Wes Westrum - New York Giants
+76 Eddie Stanky - St. Louis Cardinals
+77 Bob Kennedy - Cleveland Indians
+78 Ellis Kinder - Boston Red Sox
+79 Jerry Staley - St. Louis Cardinals
+80 Herm Wehmeier - Cincinnati Reds
+81 Vern Law - Pittsburgh Pirates
+82 Duane Pillette - St. Louis Browns
+83 Billy Johnson - St. Louis Cardinals
+84 Vern Stephens - Boston Red Sox
+85 Bob Kuzava - New York Yankees
+86 Ted Gray - Detroit Tigers
+87 Dale Coogan - Pittsburgh Pirates
+88 Bob Feller - Cleveland Indians
+89 Johnny Lipon - Detroit Tigers
+90 Mickey Grasso - Washington Senators
+91 Red Schoendienst - St. Louis Cardinals
+92 Dale Mitchell - Cleveland Indians
+93 Al Sima - Washington Senators
+94 Sam Mele - Washington Senators
+95 Ken Holcombe - Chicago White Sox
+96 Willard Marshall - Boston Braves
+97 Earl Torgeson - Boston Braves
+98 Bill Pierce - Chicago White Sox
+99 Gene Woodling - New York Yankees
+100 Del Rice - St. Louis Cardinals
+101 Max Lanier - New York Giants
+102 Bill Kennedy - St. Louis Browns
+103 Cliff Mapes - Detroit Tigers
+104 Don Kolloway - Detroit Tigers
+105 John Pramesa - Chicago Cubs
+106 Mickey Vernon - Washington Senators
+107 Connie Ryan - Philadelphia Phillies
+108 Jim Konstanty - Philadelphia Phillies
+109 Ted Wilks - Pittsburgh Pirates
+110 Dutch Leonard - Chicago Cubs
+111 Peanuts Lowrey - St. Louis Cardinals
+112 Hank Majeski - Philadelphia Athletics
+113 Dick Sisler - Cincinnati Reds
+114 Willard Ramsdell - Chicago Cubs
+115 Red Munger - St. Louis Cardinals
+116 Carl Scheib - Philadelphia Athletics
+117 Sherm Lollar - Chicago White Sox
+118 Ken Raffensberger - Cincinnati Reds
+119 Maurice McDermott - Boston Red Sox
+120 Bob Chakales - Cleveland Indians
+121 Gus Niarhos - Boston Red Sox
+122 Jackie Jensen - New York Yankees
+123 Eddie Yost - Washington Senators
+124 Monte Kennedy - New York Giants
+125 Bill Rigney - New York Giants
+126 Fred Hutchinson - Detroit Tigers
+127 Paul Minner - Chicago Cubs
+128 Don Bollweg - New York Yankees
+129 Johnny Mize - New York Yankees
+130 Sheldon Jones - New York Giants
+131 Morrie Martin - Philadelphia Athletics
+132 Clyde Kluttz - Washington Senators
+133 Al Widmar - Chicago White Sox
+134 Joe Tipton - Philadelphia Athletics
+135 Dixie Howell - Cincinnati Reds
+136 Johnny Schmitz - Brooklyn Dodgers
+137 Roy McMillan - Cincinnati Reds
+138 Bill MacDonald - Pittsburgh Pirates
+139 Ken Wood - Boston Red Sox
+140 John Antonelli - Boston Braves
+141 Clint Hartung - New York Giants
+142 Harry Perkowski - Cincinnati Reds
+143 Les Moss - St. Louis Browns
+144 Ed Blake - Cincinnati Reds
+145 Joe Haynes - Washington Senators
+146 Frank House - Detroit Tigers
+147 Bobby Young - St. Louis Browns
+148 Johnny Klippstein - Chicago Cubs
+149 Dick Kryhoski - St. Louis Browns
+150 Ted Beard - Pittsburgh Pirates
+151 Wally Post - Cincinnati Reds
+152 Al Evans - Boston Red Sox
+153 Bob Rush - Chicago Cubs
+154 Joe Muir - Pittsburgh Pirates
+155 Frank Overmire - New York Yankees
+156 Frank Hiller - Cincinnati Reds
+157 Bob Usher - Chicago Cubs
+158 Eddie Waitkus - Philadelphia Phillies
+159 Saul Rogovin - Chicago White Sox
+160 Owen Friend - St. Louis Browns
+161 Bud Byerly - Cincinnati Reds
+162 Del Crandall - Boston Braves
+163 Stan Rojek - St. Louis Browns
+164 Walt Dubiel - Chicago Cubs
+165 Eddie Kazak - St. Louis Cardinals
+166 Paul LaPalme - Pittsburgh Pirates
+167 Bill Howerton - Pittsburgh Pirates
+168 Charlie Silvera - New York Yankees
+169 Howie Judson - Chicago White Sox
+170 Gus Bell - Pittsburgh Pirates
+171 Ed Erautt - Cincinnati Reds
+172 Eddie Miksis - Chicago Cubs
+173 Roy Smalley - Chicago Cubs
+174 Cuddles Marshall - St. Louis Browns
+175 Billy Martin - New York Yankees
+176 Hank Edwards - Cincinnati Reds
+177 Bill Wight - Boston Red Sox
+178 Cass Michaels - Washington Senators
+179 Frank Smith - Cincinnati Reds
+180 Charley Maxwell - Boston Red Sox
+181 Bob Swift - Detroit Tigers
+182 Billy Hitchcock - Philadelphia Athletics
+183 Erv Dusak - Pittsburgh Pirates
+184 Bob Ramazzotti - Chicago Cubs
+185 Bill Nicholson - Philadelphia Phillies
+186 Walt Masterson - Boston Red Sox
+187 Bob Miller - Philadelphia Phillies
+188 Clarence Podbielan - Brooklyn Dodgers
+189 Pete Reiser - Cleveland Indians
+190 Don Johnson - Washington Senators
+191 Yogi Berra - New York Yankees
+192 Myron Ginsberg - Detroit Tigers
+193 Harry Simpson - Cleveland Indians
+194 Joe Hatten - Chicago Cubs
+195 Minnie Minoso - Chicago White Sox
+196 Solly Hemus - St. Louis Cardinals
+197 George Strickland - Pittsburgh Pirates
+198 Phil Haugstad - Brooklyn Dodgers
+199 George Zuverink - Cleveland Indians
+200 Ralph Houk - New York Yankees
+201 Alex Kellner - Philadelphia Athletics
+202 Joe Collins - New York Yankees
+203 Curt Simmons - Philadelphia Phillies
+204 Ron Northey - Chicago Cubs
+205 Clyde King - Brooklyn Dodgers
+206 Joe Ostrowski - New York Yankees
+207 Mickey Harris - Cleveland Indians
+208 Marlin Stuart - Detroit Tigers
+209 Howie Fox - Philadelphia Phillies
+210 Dick Fowler - Philadelphia Athletics
+211 Ray Coleman - Chicago White Sox
+212 Ned Garver - St. Louis Browns
+213 Nippy Jones - Philadelphia Phillies
+214 Johnny Hopp - New York Yankees
+215 Hank Bauer - New York Yankees
+216 Richie Ashburn - Philadelphia Phillies
+217 George Stirnweiss - Cleveland Indians
+218 Clyde McCullough - Pittsburgh Pirates
+219 Bobby Shantz - Philadelphia Athletics
+220 Joe Presko - St. Louis Cardinals
+221 Granny Hamner - Philadelphia Phillies
+222 Hoot Evers - Detroit Tigers
+223 Del Ennis - Philadelphia Phillies
+224 Bruce Edwards - Chicago Cubs
+225 Frank Baumholtz - Chicago Cubs
+226 Dave Philley - Philadelphia Athletics
+227 Joe Garagiola - Pittsburgh Pirates
+228 Al Brazle - St. Louis Cardinals
+229 Gene Bearden - St. Louis Browns
+230 Matt Batts - Detroit Tigers
+231 Sam Zoldak - Philadelphia Athletics
+232 Billy Cox - Brooklyn Dodgers
+233 Bob Friend - Pittsburgh Pirates
+234 Steve Souchock - Detroit Tigers
+235 Walt Dropo - Boston Red Sox
+236 Ed Fitz Gerald - Pittsburgh Pirates
+237 Jerry Coleman - New York Yankees
+238 Art Houtteman - Detroit Tigers
+239 Rocky Bridges - Brooklyn Dodgers
+240 Jack Phillips - Pittsburgh Pirates
+241 Tommy Byrne - St. Louis Browns
+242 Tom Poholsky - St. Louis Cardinals
+243 Larry Doby - Cleveland Indians
+244 Vic Wertz - Detroit Tigers
+245 Sherry Robertson - Washington Senators
+246 George Kell - Detroit Tigers
+247 Randy Gumpert - Boston Red Sox
+248 Spec Shea - New York Yankees
+249 Bobby Adams - Cincinnati Reds
+250 Carl Erskine - Brooklyn Dodgers
+251 Chico Carrasquel - Chicago White Sox
+252 Vern Bickford - Boston Braves
+253 Johnny Berardino - Cleveland Indians
+254 Joe Dobson - Chicago White Sox
+255 Clyde Vollmer - Boston Red Sox
+256 Pete Suder - Philadelphia Athletics
+257 Bobby Avila - Cleveland Indians
+258 Steve Gromek - Cleveland Indians
+259 Bob Addis - Chicago Cubs
+260 Pete Castiglione - Pittsburgh Pirates
+261 Willie Mays - New York Giants
+262 Virgil Trucks - Detroit Tigers
+263 Harry Brecheen - St. Louis Cardinals
+264 Roy Hartsfield - Boston Braves
+265 Chuck Diering - New York Giants
+266 Murry Dickson - Pittsburgh Pirates
+267 Sid Gordon - Boston Braves
+268 Bob Lemon - Cleveland Indians
+269 Willard Nixon - Boston Red Sox
+270 Lou Brissie - Cleveland Indians
+271 Jim Delsing - St. Louis Browns
+272 Mike Garcia - Cleveland Indians
+273 Erv Palica - Brooklyn Dodgers
+274 Ralph Branca - Brooklyn Dodgers
+275 Pat Mullin - Detroit Tigers
+276 Jim Wilson - Boston Braves
+277 Early Wynn - Cleveland Indians
+278 Allie Clark - Philadelphia Athletics
+279 Bud Stewart - Chicago White Sox
+280 Cloyd Boyer - St. Louis Cardinals
+281 Tommy Brown - Philadelphia Phillies SP
+282 Birdie Tebbetts - Cleveland Indians SP
+283 Phil Masi - Chicago White Sox SP
+284 Hank Arft - St. Louis Browns SP
+285 Cliff Fannin - St. Louis Browns SP
+286 Joe DeMaestri - St. Louis Browns SP
+287 Steve Bilko - St. Louis Cardinals SP
+288 Chet Nichols - Boston Braves SP
+289 Tommy Holmes - Boston Braves
+290 Joe Astroth - Philadelphia Athletics SP
+291 Gil Coan - Washington Senators SP
+292 Floyd Baker - Washington Senators SP
+293 Sibby Sisti - Boston Braves SP
+294 Walker Cooper - Boston Braves SP
+295 Phil Cavarretta - Chicago Cubs
+296 Red Rolfe - Detroit Tigers
+297 Andy Seminick - Cincinnati Reds SP
+298 Bob Ross - Washington Senators SP
+299 Ray Murray - Philadelphia Athletics SP
+300 Barney McCosky - Cleveland Indians SP
+301 Bob Porterfield - Washington Senators
+302 Max Surkont - Boston Braves
+303 Harry Dorish - Chicago White Sox
+304 Sam Dente - Chicago White Sox
+305 Paul Richards - Chicago White Sox
+306 Lou Sleater - Washington Senators
+307 Frank Campos - Washington Senators
+308 Luis Aloma - Chicago White Sox
+309 Jim Busby - Washington Senators
+310 George Metkovich - Pittsburgh Pirates
+311 Mickey Mantle - New York Yankees
+312 Jackie Robinson - Brooklyn Dodgers
+313 Bobby Thomson - New York Giants
+314 Roy Campanella - Brooklyn Dodgers
+315 Leo Durocher - New York Giants
+316 Davey Williams - New York Giants
+317 Connie Marrero - Washington Senators
+318 Hal Gregg - New York Giants
+319 Al Walker - Brooklyn Dodgers
+320 John Rutherford - Brooklyn Dodgers
+321 Joe Black - Brooklyn Dodgers
+322 Randy Jackson - Chicago Cubs
+323 Bubba Church - Cincinnati Reds
+324 Warren Hacker - Chicago Cubs
+325 Bill Serena - Chicago Cubs
+326 George Shuba - Brooklyn Dodgers
+327 Archie Wilson - Boston Red Sox
+328 Bob Borkowski - Cincinnati Reds
+329 Ivan Delock - Boston Red Sox
+330 Turk Lown - Chicago Cubs
+331 Tom Morgan - New York Yankees
+332 Tony Bartirome - Pittsburgh Pirates
+333 Pee Wee Reese - Brooklyn Dodgers
+334 Wilmer Mizell - St. Louis Cardinals
+335 Ted Lepcio - Boston Red Sox
+336 Dave Koslo - New York Giants
+337 Jim Hearn - New York Giants
+338 Sal Yvars - New York Giants
+339 Russ Meyer - Philadelphia Phillies
+340 Bob Hooper - Philadelphia Athletics
+341 Hal Jeffcoat - Chicago Cubs
+342 Clem Labine - Brooklyn Dodgers
+343 Dick Gernert - Boston Red Sox
+344 Ewell Blackwell - Cincinnati Reds
+345 Sammy White - Boston Red Sox
+346 George Spencer - New York Giants
+347 Joe Adcock - Cincinnati Reds
+348 Bob Kelly - Chicago Cubs
+349 Bob Cain - St. Louis Browns
+350 Cal Abrams - Cincinnati Reds
+351 Al Dark - New York Giants
+352 Karl Drews - Philadelphia Phillies
+353 Bobby Del Greco - Pittsburgh Pirates
+354 Fred Hatfield - Detroit Tigers
+355 Bobby Morgan - Brooklyn Dodgers
+356 Toby Atwell - Chicago Cubs
+357 Smoky Burgess - Philadelphia Phillies
+358 John Kucab - Philadelphia Athletics
+359 Dee Fondy - Chicago Cubs
+360 George Crowe - Boston Braves
+361 Bill Posedel - Pittsburgh Pirates
+362 Ken Heintzelman - Philadelphia Phillies
+363 Dick Rozek - Cleveland Indians
+364 Clyde Sukeforth - Pittsburgh Pirates
+365 Cookie Lavagetto - Brooklyn Dodgers
+366 Dave Madison - St. Louis Browns
+367 Bob Thorpe - Boston Braves
+368 Ed Wright - Philadelphia Athletics
+369 Dick Groat - Pittsburgh Pirates
+370 Billy Hoeft - Detroit Tigers
+371 Bobby Hofman - New York Giants
+372 Gil McDougald - New York Yankees
+373 Jim Turner - New York Yankees
+374 Al Benton - Boston Red Sox
+375 Jack Merson - Pittsburgh Pirates
+376 Faye Throneberry - Boston Red Sox
+377 Chuck Dressen - Brooklyn Dodgers
+378 Les Fusselman - St. Louis Cardinals
+379 Joe Rossi - Cincinnati Reds
+380 Clem Koshorek - Pittsburgh Pirates
+381 Milton Stock - Pittsburgh Pirates
+382 Sam Jones - Cleveland Indians
+383 Del Wilber - Boston Red Sox
+384 Frankie Crosetti - New York Yankees
+385 Herman Franks - New York Giants
+386 Eddie Yuhas - St. Louis Cardinals
+387 Billy Meyer - Pittsburgh Pirates
+388 Bob Chipman - Boston Braves
+389 Ben Wade - Brooklyn Dodgers
+390 Glenn Nelson - Brooklyn Dodgers
+391 Ben Chapman - Cincinnati Reds
+392 Hoyt Wilhelm - New York Giants
+393 Ebba St. Claire - Boston Braves
+394 Billy Herman - Brooklyn Dodgers
+395 Jake Pitler - Brooklyn Dodgers
+396 Dick Williams - Brooklyn Dodgers
+397 Forrest Main - Pittsburgh Pirates
+398 Hal Rice - St. Louis Cardinals
+399 Jim Fridley - Cleveland Indians
+400 Bill Dickey - New York Yankees
+401 Bob Schultz - Chicago Cubs
+402 Earl Harrist - St. Louis Browns
+403 Bill Miller - New York Yankees
+404 Dick Brodowski - Boston Red Sox
+405 Eddie Pellagrini - Cincinnati Reds
+406 Joe Nuxhall - Cincinnati Reds
+407 Eddie Mathews - Boston Braves

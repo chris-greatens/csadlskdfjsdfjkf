@@ -1,0 +1,6734 @@
+{
+    "release": {
+        "year": 1975,
+        "brand": "Topps",
+        "release_name": "",
+        "category": 1,
+        "subcategory": 1,
+        "description": "1975 Topps base set with 660 cards."
+    },
+    "set": {
+        "set_name": "Base",
+        "set_type": 1,
+        "is_autographed": 0,
+        "max_serial_num": 0,
+        "description": "1975 Topps base set"
+    },
+    "cards": [
+        {
+            "card_no": 1,
+            "card_title": "1974 Highlights - Hank Aaron",
+            "player_names": [
+                "Hank Aaron"
+            ],
+            "player_teams": [
+                "Atlanta Braves"
+            ]
+        },
+        {
+            "card_no": 2,
+            "card_title": "1974 Highlights - Lou Brock",
+            "player_names": [
+                "Lou Brock"
+            ],
+            "player_teams": [
+                "St. Louis Cardinals"
+            ]
+        },
+        {
+            "card_no": 3,
+            "card_title": "1974 Highlights - Bob Gibson",
+            "player_names": [
+                "Bob Gibson"
+            ],
+            "player_teams": [
+                "St. Louis Cardinals"
+            ]
+        },
+        {
+            "card_no": 4,
+            "card_title": "1974 Highlights - Al Kaline",
+            "player_names": [
+                "Al Kaline"
+            ],
+            "player_teams": [
+                "Detroit Tigers"
+            ]
+        },
+        {
+            "card_no": 5,
+            "card_title": "1974 Highlights - Nolan Ryan",
+            "player_names": [
+                "Nolan Ryan"
+            ],
+            "player_teams": [
+                "California Angels"
+            ]
+        },
+        {
+            "card_no": 6,
+            "card_title": "1974 Highlights - Mike Marshall",
+            "player_names": [
+                "Mike Marshall"
+            ],
+            "player_teams": [
+                "Los Angeles Dodgers"
+            ]
+        },
+        {
+            "card_no": 7,
+            "card_title": "1974 Highlights - Steve Busby, Dick Bosman, Nolan Ryan",
+            "player_names": [
+                "Steve Busby",
+                "Dick Bosman",
+                "Nolan Ryan"
+            ],
+            "player_teams": [
+                "Kansas City Royals",
+                "Baltimore Orioles",
+                "California Angels"
+            ]
+        },
+        {
+            "card_no": 8,
+            "card_title": "",
+            "player_names": [
+                "Rogelio Moret"
+            ],
+            "player_teams": [
+                "Boston Red Sox"
+            ]
+        },
+        {
+            "card_no": 9,
+            "card_title": "",
+            "player_names": [
+                "Frank Tepedino"
+            ],
+            "player_teams": [
+                "Atlanta Braves"
+            ]
+        },
+        {
+            "card_no": 10,
+            "card_title": "",
+            "player_names": [
+                "Willie Davis"
+            ],
+            "player_teams": [
+                "Montreal Expos"
+            ]
+        },
+        {
+            "card_no": 11,
+            "card_title": "",
+            "player_names": [
+                "Bill Melton"
+            ],
+            "player_teams": [
+                "Chicago White Sox"
+            ]
+        },
+        {
+            "card_no": 12,
+            "card_title": "",
+            "player_names": [
+                "David Clyde"
+            ],
+            "player_teams": [
+                "Texas Rangers"
+            ]
+        },
+        {
+            "card_no": 13,
+            "card_title": "",
+            "player_names": [
+                "Gene Locklear"
+            ],
+            "player_teams": [
+                "San Diego Padres"
+            ]
+        },
+        {
+            "card_no": 14,
+            "card_title": "",
+            "player_names": [
+                "Milt Wilcox"
+            ],
+            "player_teams": [
+                "Cleveland Indians"
+            ]
+        },
+        {
+            "card_no": 15,
+            "card_title": "",
+            "player_names": [
+                "Jose Cardenal"
+            ],
+            "player_teams": [
+                "Chicago Cubs"
+            ]
+        },
+        {
+            "card_no": 16,
+            "card_title": "",
+            "player_names": [
+                "Frank Tanana"
+            ],
+            "player_teams": [
+                "California Angels"
+            ]
+        },
+        {
+            "card_no": 17,
+            "card_title": "",
+            "player_names": [
+                "Dave Concepcion"
+            ],
+            "player_teams": [
+                "Cincinnati Reds"
+            ]
+        },
+        {
+            "card_no": 18,
+            "card_title": "Detroit Tigers Team Checklist",
+            "player_names": [
+                ""
+            ],
+            "player_teams": [
+                "Detroit Tigers"
+            ]
+        },
+        {
+            "card_no": 19,
+            "card_title": "",
+            "player_names": [
+                "Jerry Koosman"
+            ],
+            "player_teams": [
+                "New York Mets"
+            ]
+        },
+        {
+            "card_no": 20,
+            "card_title": "",
+            "player_names": [
+                "Thurman Munson"
+            ],
+            "player_teams": [
+                "New York Yankees"
+            ]
+        },
+        {
+            "card_no": 21,
+            "card_title": "",
+            "player_names": [
+                "Rollie Fingers"
+            ],
+            "player_teams": [
+                "Oakland Athletics"
+            ]
+        },
+        {
+            "card_no": 22,
+            "card_title": "",
+            "player_names": [
+                "Dave Cash"
+            ],
+            "player_teams": [
+                "Philadelphia Phillies"
+            ]
+        },
+        {
+            "card_no": 23,
+            "card_title": "",
+            "player_names": [
+                "Bill Russell"
+            ],
+            "player_teams": [
+                "Los Angeles Dodgers"
+            ]
+        },
+        {
+            "card_no": 24,
+            "card_title": "",
+            "player_names": [
+                "Al Fitzmorris"
+            ],
+            "player_teams": [
+                "Kansas City Royals"
+            ]
+        },
+        {
+            "card_no": 25,
+            "card_title": "",
+            "player_names": [
+                "Lee May"
+            ],
+            "player_teams": [
+                "Houston Astros"
+            ]
+        },
+        {
+            "card_no": 26,
+            "card_title": "",
+            "player_names": [
+                "Dave McNally"
+            ],
+            "player_teams": [
+                "Baltimore Orioles"
+            ]
+        },
+        {
+            "card_no": 27,
+            "card_title": "",
+            "player_names": [
+                "Ken Reitz"
+            ],
+            "player_teams": [
+                "St. Louis Cardinals"
+            ]
+        },
+        {
+            "card_no": 28,
+            "card_title": "",
+            "player_names": [
+                "Tom Murphy"
+            ],
+            "player_teams": [
+                "Milwaukee Brewers"
+            ]
+        },
+        {
+            "card_no": 29,
+            "card_title": "",
+            "player_names": [
+                "Dave Parker"
+            ],
+            "player_teams": [
+                "Pittsburgh Pirates"
+            ]
+        },
+        {
+            "card_no": 30,
+            "card_title": "",
+            "player_names": [
+                "Bert Blyleven"
+            ],
+            "player_teams": [
+                "Minnesota Twins"
+            ]
+        },
+        {
+            "card_no": 31,
+            "card_title": "",
+            "player_names": [
+                "Dave Rader"
+            ],
+            "player_teams": [
+                "San Francisco Giants"
+            ]
+        },
+        {
+            "card_no": 32,
+            "card_title": "",
+            "player_names": [
+                "Reggie Cleveland"
+            ],
+            "player_teams": [
+                "Boston Red Sox"
+            ]
+        },
+        {
+            "card_no": 33,
+            "card_title": "",
+            "player_names": [
+                "Dusty Baker"
+            ],
+            "player_teams": [
+                "Atlanta Braves"
+            ]
+        },
+        {
+            "card_no": 34,
+            "card_title": "",
+            "player_names": [
+                "Steve Renko"
+            ],
+            "player_teams": [
+                "Montreal Expos"
+            ]
+        },
+        {
+            "card_no": 35,
+            "card_title": "",
+            "player_names": [
+                "Ron Santo"
+            ],
+            "player_teams": [
+                "Chicago White Sox"
+            ]
+        },
+        {
+            "card_no": 36,
+            "card_title": "",
+            "player_names": [
+                "Joe Lovitto"
+            ],
+            "player_teams": [
+                "Texas Rangers"
+            ]
+        },
+        {
+            "card_no": 37,
+            "card_title": "",
+            "player_names": [
+                "Dave Freisleben"
+            ],
+            "player_teams": [
+                "San Diego Padres"
+            ]
+        },
+        {
+            "card_no": 38,
+            "card_title": "",
+            "player_names": [
+                "Buddy Bell"
+            ],
+            "player_teams": [
+                "Cleveland Indians"
+            ]
+        },
+        {
+            "card_no": 39,
+            "card_title": "",
+            "player_names": [
+                "Andy Thornton"
+            ],
+            "player_teams": [
+                "Chicago Cubs"
+            ]
+        },
+        {
+            "card_no": 40,
+            "card_title": "",
+            "player_names": [
+                "Bill Singer"
+            ],
+            "player_teams": [
+                "California Angels"
+            ]
+        },
+        {
+            "card_no": 41,
+            "card_title": "",
+            "player_names": [
+                "Cesar Geronimo"
+            ],
+            "player_teams": [
+                "Cincinnati Reds"
+            ]
+        },
+        {
+            "card_no": 42,
+            "card_title": "",
+            "player_names": [
+                "Joe Coleman"
+            ],
+            "player_teams": [
+                "Detroit Tigers"
+            ]
+        },
+        {
+            "card_no": 43,
+            "card_title": "",
+            "player_names": [
+                "Cleon Jones"
+            ],
+            "player_teams": [
+                "New York Mets"
+            ]
+        },
+        {
+            "card_no": 44,
+            "card_title": "",
+            "player_names": [
+                "Pat Dobson"
+            ],
+            "player_teams": [
+                "New York Yankees"
+            ]
+        },
+        {
+            "card_no": 45,
+            "card_title": "",
+            "player_names": [
+                "Joe Rudi"
+            ],
+            "player_teams": [
+                "Oakland Athletics"
+            ]
+        },
+        {
+            "card_no": 46,
+            "card_title": "Philadelphia Phillies Team Checklist",
+            "player_names": [
+                ""
+            ],
+            "player_teams": [
+                "Philadelphia Phillies"
+            ]
+        },
+        {
+            "card_no": 47,
+            "card_title": "",
+            "player_names": [
+                "Tommy John"
+            ],
+            "player_teams": [
+                "Los Angeles Dodgers"
+            ]
+        },
+        {
+            "card_no": 48,
+            "card_title": "",
+            "player_names": [
+                "Freddie Patek"
+            ],
+            "player_teams": [
+                "Kansas City Royals"
+            ]
+        },
+        {
+            "card_no": 49,
+            "card_title": "",
+            "player_names": [
+                "Larry Dierker"
+            ],
+            "player_teams": [
+                "Houston Astros"
+            ]
+        },
+        {
+            "card_no": 50,
+            "card_title": "",
+            "player_names": [
+                "Brooks Robinson"
+            ],
+            "player_teams": [
+                "Baltimore Orioles"
+            ]
+        },
+        {
+            "card_no": 51,
+            "card_title": "",
+            "player_names": [
+                "Bob Forsch"
+            ],
+            "player_teams": [
+                "St. Louis Cardinals"
+            ]
+        },
+        {
+            "card_no": 52,
+            "card_title": "",
+            "player_names": [
+                "Darrell Porter"
+            ],
+            "player_teams": [
+                "Milwaukee Brewers"
+            ]
+        },
+        {
+            "card_no": 53,
+            "card_title": "",
+            "player_names": [
+                "Dave Giusti"
+            ],
+            "player_teams": [
+                "Pittsburgh Pirates"
+            ]
+        },
+        {
+            "card_no": 54,
+            "card_title": "",
+            "player_names": [
+                "Eric Soderholm"
+            ],
+            "player_teams": [
+                "Minnesota Twins"
+            ]
+        },
+        {
+            "card_no": 55,
+            "card_title": "",
+            "player_names": [
+                "Bobby Bonds"
+            ],
+            "player_teams": [
+                "New York Yankees"
+            ]
+        },
+        {
+            "card_no": 56,
+            "card_title": "",
+            "player_names": [
+                "Rick Wise"
+            ],
+            "player_teams": [
+                "Boston Red Sox"
+            ]
+        },
+        {
+            "card_no": 57,
+            "card_title": "",
+            "player_names": [
+                "Dave Johnson"
+            ],
+            "player_teams": [
+                "Atlanta Braves"
+            ]
+        },
+        {
+            "card_no": 58,
+            "card_title": "",
+            "player_names": [
+                "Chuck Taylor"
+            ],
+            "player_teams": [
+                "Montreal Expos"
+            ]
+        },
+        {
+            "card_no": 59,
+            "card_title": "",
+            "player_names": [
+                "Ken Henderson"
+            ],
+            "player_teams": [
+                "Chicago White Sox"
+            ]
+        },
+        {
+            "card_no": 60,
+            "card_title": "",
+            "player_names": [
+                "Fergie Jenkins"
+            ],
+            "player_teams": [
+                "Texas Rangers"
+            ]
+        },
+        {
+            "card_no": 61,
+            "card_title": "",
+            "player_names": [
+                "Dave Winfield"
+            ],
+            "player_teams": [
+                "San Diego Padres"
+            ]
+        },
+        {
+            "card_no": 62,
+            "card_title": "",
+            "player_names": [
+                "Fritz Peterson"
+            ],
+            "player_teams": [
+                "Cleveland Indians"
+            ]
+        },
+        {
+            "card_no": 63,
+            "card_title": "",
+            "player_names": [
+                "Steve Swisher"
+            ],
+            "player_teams": [
+                "Chicago Cubs"
+            ]
+        },
+        {
+            "card_no": 64,
+            "card_title": "",
+            "player_names": [
+                "Dave Chalk"
+            ],
+            "player_teams": [
+                "California Angels"
+            ]
+        },
+        {
+            "card_no": 65,
+            "card_title": "",
+            "player_names": [
+                "Don Gullett"
+            ],
+            "player_teams": [
+                "Cincinnati Reds"
+            ]
+        },
+        {
+            "card_no": 66,
+            "card_title": "",
+            "player_names": [
+                "Willie Horton"
+            ],
+            "player_teams": [
+                "Detroit Tigers"
+            ]
+        },
+        {
+            "card_no": 67,
+            "card_title": "",
+            "player_names": [
+                "Tug McGraw"
+            ],
+            "player_teams": [
+                "New York Mets"
+            ]
+        },
+        {
+            "card_no": 68,
+            "card_title": "",
+            "player_names": [
+                "Ron Blomberg"
+            ],
+            "player_teams": [
+                "New York Yankees"
+            ]
+        },
+        {
+            "card_no": 69,
+            "card_title": "",
+            "player_names": [
+                "John Odom"
+            ],
+            "player_teams": [
+                "Oakland Athletics"
+            ]
+        },
+        {
+            "card_no": 70,
+            "card_title": "",
+            "player_names": [
+                "Mike Schmidt"
+            ],
+            "player_teams": [
+                "Philadelphia Phillies"
+            ]
+        },
+        {
+            "card_no": 71,
+            "card_title": "",
+            "player_names": [
+                "Charlie Hough"
+            ],
+            "player_teams": [
+                "Los Angeles Dodgers"
+            ]
+        },
+        {
+            "card_no": 72,
+            "card_title": "Kansas City Royals Team Checklist",
+            "player_names": [
+                ""
+            ],
+            "player_teams": [
+                "Kansas City Royals"
+            ]
+        },
+        {
+            "card_no": 73,
+            "card_title": "",
+            "player_names": [
+                "J.R. Richard"
+            ],
+            "player_teams": [
+                "Houston Astros"
+            ]
+        },
+        {
+            "card_no": 74,
+            "card_title": "",
+            "player_names": [
+                "Mark Belanger"
+            ],
+            "player_teams": [
+                "Baltimore Orioles"
+            ]
+        },
+        {
+            "card_no": 75,
+            "card_title": "",
+            "player_names": [
+                "Ted Simmons"
+            ],
+            "player_teams": [
+                "St. Louis Cardinals"
+            ]
+        },
+        {
+            "card_no": 76,
+            "card_title": "",
+            "player_names": [
+                "Ed Sprague"
+            ],
+            "player_teams": [
+                "Milwaukee Brewers"
+            ]
+        },
+        {
+            "card_no": 77,
+            "card_title": "",
+            "player_names": [
+                "Richie Zisk"
+            ],
+            "player_teams": [
+                "Pittsburgh Pirates"
+            ]
+        },
+        {
+            "card_no": 78,
+            "card_title": "",
+            "player_names": [
+                "Ray Corbin"
+            ],
+            "player_teams": [
+                "Minnesota Twins"
+            ]
+        },
+        {
+            "card_no": 79,
+            "card_title": "",
+            "player_names": [
+                "Gary Matthews"
+            ],
+            "player_teams": [
+                "San Francisco Giants"
+            ]
+        },
+        {
+            "card_no": 80,
+            "card_title": "",
+            "player_names": [
+                "Carlton Fisk"
+            ],
+            "player_teams": [
+                "Boston Red Sox"
+            ]
+        },
+        {
+            "card_no": 81,
+            "card_title": "",
+            "player_names": [
+                "Ron Reed"
+            ],
+            "player_teams": [
+                "Atlanta Braves"
+            ]
+        },
+        {
+            "card_no": 82,
+            "card_title": "",
+            "player_names": [
+                "Pat Kelly"
+            ],
+            "player_teams": [
+                "Chicago White Sox"
+            ]
+        },
+        {
+            "card_no": 83,
+            "card_title": "",
+            "player_names": [
+                "Jim Merritt"
+            ],
+            "player_teams": [
+                "Texas Rangers"
+            ]
+        },
+        {
+            "card_no": 84,
+            "card_title": "",
+            "player_names": [
+                "Enzo Hernandez"
+            ],
+            "player_teams": [
+                "San Diego Padres"
+            ]
+        },
+        {
+            "card_no": 85,
+            "card_title": "",
+            "player_names": [
+                "Bill Bonham"
+            ],
+            "player_teams": [
+                "Chicago Cubs"
+            ]
+        },
+        {
+            "card_no": 86,
+            "card_title": "",
+            "player_names": [
+                "Joe Lis"
+            ],
+            "player_teams": [
+                "Cleveland Indians"
+            ]
+        },
+        {
+            "card_no": 87,
+            "card_title": "",
+            "player_names": [
+                "George Foster"
+            ],
+            "player_teams": [
+                "Cincinnati Reds"
+            ]
+        },
+        {
+            "card_no": 88,
+            "card_title": "",
+            "player_names": [
+                "Tom Egan"
+            ],
+            "player_teams": [
+                "California Angels"
+            ]
+        },
+        {
+            "card_no": 89,
+            "card_title": "",
+            "player_names": [
+                "Jim Ray"
+            ],
+            "player_teams": [
+                "Detroit Tigers"
+            ]
+        },
+        {
+            "card_no": 90,
+            "card_title": "",
+            "player_names": [
+                "Rusty Staub"
+            ],
+            "player_teams": [
+                "New York Mets"
+            ]
+        },
+        {
+            "card_no": 91,
+            "card_title": "",
+            "player_names": [
+                "Dick Green"
+            ],
+            "player_teams": [
+                "Oakland Athletics"
+            ]
+        },
+        {
+            "card_no": 92,
+            "card_title": "",
+            "player_names": [
+                "Cecil Upshaw"
+            ],
+            "player_teams": [
+                "New York Yankees"
+            ]
+        },
+        {
+            "card_no": 93,
+            "card_title": "",
+            "player_names": [
+                "Dave Lopes"
+            ],
+            "player_teams": [
+                "Los Angeles Dodgers"
+            ]
+        },
+        {
+            "card_no": 94,
+            "card_title": "",
+            "player_names": [
+                "Jim Lonborg"
+            ],
+            "player_teams": [
+                "Philadelphia Phillies"
+            ]
+        },
+        {
+            "card_no": 95,
+            "card_title": "",
+            "player_names": [
+                "John Mayberry"
+            ],
+            "player_teams": [
+                "Kansas City Royals"
+            ]
+        },
+        {
+            "card_no": 96,
+            "card_title": "",
+            "player_names": [
+                "Mike Cosgrove"
+            ],
+            "player_teams": [
+                "Houston Astros"
+            ]
+        },
+        {
+            "card_no": 97,
+            "card_title": "",
+            "player_names": [
+                "Earl Williams"
+            ],
+            "player_teams": [
+                "Baltimore Orioles"
+            ]
+        },
+        {
+            "card_no": 98,
+            "card_title": "",
+            "player_names": [
+                "Rich Folkers"
+            ],
+            "player_teams": [
+                "St. Louis Cardinals"
+            ]
+        },
+        {
+            "card_no": 99,
+            "card_title": "",
+            "player_names": [
+                "Mike Hegan"
+            ],
+            "player_teams": [
+                "Milwaukee Brewers"
+            ]
+        },
+        {
+            "card_no": 100,
+            "card_title": "",
+            "player_names": [
+                "Willie Stargell"
+            ],
+            "player_teams": [
+                "Pittsburgh Pirates"
+            ]
+        },
+        {
+            "card_no": 101,
+            "card_title": "Montreal Expos Team Checklist",
+            "player_names": [
+                ""
+            ],
+            "player_teams": [
+                "Montreal Expos"
+            ]
+        },
+        {
+            "card_no": 102,
+            "card_title": "",
+            "player_names": [
+                "Joe Decker"
+            ],
+            "player_teams": [
+                "Minnesota Twins"
+            ]
+        },
+        {
+            "card_no": 103,
+            "card_title": "",
+            "player_names": [
+                "Rick Miller"
+            ],
+            "player_teams": [
+                "Boston Red Sox"
+            ]
+        },
+        {
+            "card_no": 104,
+            "card_title": "",
+            "player_names": [
+                "Bill Madlock"
+            ],
+            "player_teams": [
+                "Chicago Cubs"
+            ]
+        },
+        {
+            "card_no": 105,
+            "card_title": "",
+            "player_names": [
+                "Buzz Capra"
+            ],
+            "player_teams": [
+                "Atlanta Braves"
+            ]
+        },
+        {
+            "card_no": 106,
+            "card_title": "",
+            "player_names": [
+                "Mike Hargrove"
+            ],
+            "player_teams": [
+                "Texas Rangers"
+            ]
+        },
+        {
+            "card_no": 107,
+            "card_title": "",
+            "player_names": [
+                "Jim Barr"
+            ],
+            "player_teams": [
+                "San Francisco Giants"
+            ]
+        },
+        {
+            "card_no": 108,
+            "card_title": "",
+            "player_names": [
+                "Tom Hall"
+            ],
+            "player_teams": [
+                "Cincinnati Reds"
+            ]
+        },
+        {
+            "card_no": 109,
+            "card_title": "",
+            "player_names": [
+                "George Hendrick"
+            ],
+            "player_teams": [
+                "Cleveland Indians"
+            ]
+        },
+        {
+            "card_no": 110,
+            "card_title": "",
+            "player_names": [
+                "Wilbur Wood"
+            ],
+            "player_teams": [
+                "Chicago White Sox"
+            ]
+        },
+        {
+            "card_no": 111,
+            "card_title": "",
+            "player_names": [
+                "Wayne Garrett"
+            ],
+            "player_teams": [
+                "New York Mets"
+            ]
+        },
+        {
+            "card_no": 112,
+            "card_title": "",
+            "player_names": [
+                "Larry Hardy"
+            ],
+            "player_teams": [
+                "San Diego Padres"
+            ]
+        },
+        {
+            "card_no": 113,
+            "card_title": "",
+            "player_names": [
+                "Elliott Maddox"
+            ],
+            "player_teams": [
+                "New York Yankees"
+            ]
+        },
+        {
+            "card_no": 114,
+            "card_title": "",
+            "player_names": [
+                "Dick Lange"
+            ],
+            "player_teams": [
+                "California Angels"
+            ]
+        },
+        {
+            "card_no": 115,
+            "card_title": "",
+            "player_names": [
+                "Joe Ferguson"
+            ],
+            "player_teams": [
+                "Los Angeles Dodgers"
+            ]
+        },
+        {
+            "card_no": 116,
+            "card_title": "",
+            "player_names": [
+                "Lerrin LaGrow"
+            ],
+            "player_teams": [
+                "Detroit Tigers"
+            ]
+        },
+        {
+            "card_no": 117,
+            "card_title": "Baltimore Orioles Team Checklist",
+            "player_names": [
+                ""
+            ],
+            "player_teams": [
+                "Baltimore Orioles"
+            ]
+        },
+        {
+            "card_no": 118,
+            "card_title": "",
+            "player_names": [
+                "Mike Anderson"
+            ],
+            "player_teams": [
+                "Philadelphia Phillies"
+            ]
+        },
+        {
+            "card_no": 119,
+            "card_title": "",
+            "player_names": [
+                "Tommy Helms"
+            ],
+            "player_teams": [
+                "Houston Astros"
+            ]
+        },
+        {
+            "card_no": 120,
+            "card_title": "",
+            "player_names": [
+                "Steve Busby"
+            ],
+            "player_teams": [
+                "Kansas City Royals"
+            ]
+        },
+        {
+            "card_no": 121,
+            "card_title": "",
+            "player_names": [
+                "Bill North"
+            ],
+            "player_teams": [
+                "Oakland Athletics"
+            ]
+        },
+        {
+            "card_no": 122,
+            "card_title": "",
+            "player_names": [
+                "Al Hrabosky"
+            ],
+            "player_teams": [
+                "St. Louis Cardinals"
+            ]
+        },
+        {
+            "card_no": 123,
+            "card_title": "",
+            "player_names": [
+                "Johnny Briggs"
+            ],
+            "player_teams": [
+                "Milwaukee Brewers"
+            ]
+        },
+        {
+            "card_no": 124,
+            "card_title": "",
+            "player_names": [
+                "Jerry Reuss"
+            ],
+            "player_teams": [
+                "Pittsburgh Pirates"
+            ]
+        },
+        {
+            "card_no": 125,
+            "card_title": "",
+            "player_names": [
+                "Ken Singleton"
+            ],
+            "player_teams": [
+                "Montreal Expos"
+            ]
+        },
+        {
+            "card_no": 126,
+            "card_title": "Checklist (#1-132)",
+            "player_names": [
+                ""
+            ],
+            "player_teams": [
+                ""
+            ]
+        },
+        {
+            "card_no": 127,
+            "card_title": "",
+            "player_names": [
+                "Glenn Borgmann"
+            ],
+            "player_teams": [
+                "Minnesota Twins"
+            ]
+        },
+        {
+            "card_no": 128,
+            "card_title": "",
+            "player_names": [
+                "Bill Lee"
+            ],
+            "player_teams": [
+                "Boston Red Sox"
+            ]
+        },
+        {
+            "card_no": 129,
+            "card_title": "",
+            "player_names": [
+                "Rick Monday"
+            ],
+            "player_teams": [
+                "Chicago Cubs"
+            ]
+        },
+        {
+            "card_no": 130,
+            "card_title": "",
+            "player_names": [
+                "Phil Niekro"
+            ],
+            "player_teams": [
+                "Atlanta Braves"
+            ]
+        },
+        {
+            "card_no": 131,
+            "card_title": "",
+            "player_names": [
+                "Toby Harrah"
+            ],
+            "player_teams": [
+                "Texas Rangers"
+            ]
+        },
+        {
+            "card_no": 132,
+            "card_title": "",
+            "player_names": [
+                "Randy Moffitt"
+            ],
+            "player_teams": [
+                "San Francisco Giants"
+            ]
+        },
+        {
+            "card_no": 133,
+            "card_title": "",
+            "player_names": [
+                "Dan Driessen"
+            ],
+            "player_teams": [
+                "Cincinnati Reds"
+            ]
+        },
+        {
+            "card_no": 134,
+            "card_title": "",
+            "player_names": [
+                "Ron Hodges"
+            ],
+            "player_teams": [
+                "New York Mets"
+            ]
+        },
+        {
+            "card_no": 135,
+            "card_title": "",
+            "player_names": [
+                "Charlie Spikes"
+            ],
+            "player_teams": [
+                "Cleveland Indians"
+            ]
+        },
+        {
+            "card_no": 136,
+            "card_title": "",
+            "player_names": [
+                "Jim Mason"
+            ],
+            "player_teams": [
+                "New York Yankees"
+            ]
+        },
+        {
+            "card_no": 137,
+            "card_title": "",
+            "player_names": [
+                "Terry Forster"
+            ],
+            "player_teams": [
+                "Chicago White Sox"
+            ]
+        },
+        {
+            "card_no": 138,
+            "card_title": "",
+            "player_names": [
+                "Del Unser"
+            ],
+            "player_teams": [
+                "Philadelphia Phillies"
+            ]
+        },
+        {
+            "card_no": 139,
+            "card_title": "",
+            "player_names": [
+                "Horacio Pina"
+            ],
+            "player_teams": [
+                "California Angels"
+            ]
+        },
+        {
+            "card_no": 140,
+            "card_title": "",
+            "player_names": [
+                "Steve Garvey"
+            ],
+            "player_teams": [
+                "Los Angeles Dodgers"
+            ]
+        },
+        {
+            "card_no": 141,
+            "card_title": "",
+            "player_names": [
+                "Mickey Stanley"
+            ],
+            "player_teams": [
+                "Detroit Tigers"
+            ]
+        },
+        {
+            "card_no": 142,
+            "card_title": "",
+            "player_names": [
+                "Bob Reynolds"
+            ],
+            "player_teams": [
+                "Baltimore Orioles"
+            ]
+        },
+        {
+            "card_no": 143,
+            "card_title": "",
+            "player_names": [
+                "Cliff Johnson"
+            ],
+            "player_teams": [
+                "Houston Astros"
+            ]
+        },
+        {
+            "card_no": 144,
+            "card_title": "",
+            "player_names": [
+                "Jim Wohlford"
+            ],
+            "player_teams": [
+                "Kansas City Royals"
+            ]
+        },
+        {
+            "card_no": 145,
+            "card_title": "",
+            "player_names": [
+                "Ken Holtzman"
+            ],
+            "player_teams": [
+                "Oakland Athletics"
+            ]
+        },
+        {
+            "card_no": 146,
+            "card_title": "San Diego Padres Team Checklist",
+            "player_names": [
+                ""
+            ],
+            "player_teams": [
+                "San Diego Padres"
+            ]
+        },
+        {
+            "card_no": 147,
+            "card_title": "",
+            "player_names": [
+                "Pedro Garcia"
+            ],
+            "player_teams": [
+                "Milwaukee Brewers"
+            ]
+        },
+        {
+            "card_no": 148,
+            "card_title": "",
+            "player_names": [
+                "Jim Rooker"
+            ],
+            "player_teams": [
+                "Pittsburgh Pirates"
+            ]
+        },
+        {
+            "card_no": 149,
+            "card_title": "",
+            "player_names": [
+                "Tim Foli"
+            ],
+            "player_teams": [
+                "Montreal Expos"
+            ]
+        },
+        {
+            "card_no": 150,
+            "card_title": "",
+            "player_names": [
+                "Bob Gibson"
+            ],
+            "player_teams": [
+                "St. Louis Cardinals"
+            ]
+        },
+        {
+            "card_no": 151,
+            "card_title": "",
+            "player_names": [
+                "Steve Brye"
+            ],
+            "player_teams": [
+                "Minnesota Twins"
+            ]
+        },
+        {
+            "card_no": 152,
+            "card_title": "",
+            "player_names": [
+                "Mario Guerrero"
+            ],
+            "player_teams": [
+                "Boston Red Sox"
+            ]
+        },
+        {
+            "card_no": 153,
+            "card_title": "",
+            "player_names": [
+                "Rick Reuschel"
+            ],
+            "player_teams": [
+                "Chicago Cubs"
+            ]
+        },
+        {
+            "card_no": 154,
+            "card_title": "",
+            "player_names": [
+                "Mike Lum"
+            ],
+            "player_teams": [
+                "Atlanta Braves"
+            ]
+        },
+        {
+            "card_no": 155,
+            "card_title": "",
+            "player_names": [
+                "Jim Bibby"
+            ],
+            "player_teams": [
+                "Texas Rangers"
+            ]
+        },
+        {
+            "card_no": 156,
+            "card_title": "",
+            "player_names": [
+                "Dave Kingman"
+            ],
+            "player_teams": [
+                "San Francisco Giants"
+            ]
+        },
+        {
+            "card_no": 157,
+            "card_title": "",
+            "player_names": [
+                "Pedro Borbon"
+            ],
+            "player_teams": [
+                "Cincinnati Reds"
+            ]
+        },
+        {
+            "card_no": 158,
+            "card_title": "",
+            "player_names": [
+                "Jerry Grote"
+            ],
+            "player_teams": [
+                "New York Mets"
+            ]
+        },
+        {
+            "card_no": 159,
+            "card_title": "",
+            "player_names": [
+                "Steve Arlin"
+            ],
+            "player_teams": [
+                "Cleveland Indians"
+            ]
+        },
+        {
+            "card_no": 160,
+            "card_title": "",
+            "player_names": [
+                "Graig Nettles"
+            ],
+            "player_teams": [
+                "New York Yankees"
+            ]
+        },
+        {
+            "card_no": 161,
+            "card_title": "",
+            "player_names": [
+                "Stan Bahnsen"
+            ],
+            "player_teams": [
+                "Chicago White Sox"
+            ]
+        },
+        {
+            "card_no": 162,
+            "card_title": "",
+            "player_names": [
+                "Willie Montanez"
+            ],
+            "player_teams": [
+                "Philadelphia Phillies"
+            ]
+        },
+        {
+            "card_no": 163,
+            "card_title": "",
+            "player_names": [
+                "Jim Brewer"
+            ],
+            "player_teams": [
+                "Los Angeles Dodgers"
+            ]
+        },
+        {
+            "card_no": 164,
+            "card_title": "",
+            "player_names": [
+                "Mickey Rivers"
+            ],
+            "player_teams": [
+                "California Angels"
+            ]
+        },
+        {
+            "card_no": 165,
+            "card_title": "",
+            "player_names": [
+                "Doug Rader"
+            ],
+            "player_teams": [
+                "Houston Astros"
+            ]
+        },
+        {
+            "card_no": 166,
+            "card_title": "",
+            "player_names": [
+                "Woodie Fryman"
+            ],
+            "player_teams": [
+                "Detroit Tigers"
+            ]
+        },
+        {
+            "card_no": 167,
+            "card_title": "",
+            "player_names": [
+                "Rich Coggins"
+            ],
+            "player_teams": [
+                "Baltimore Orioles"
+            ]
+        },
+        {
+            "card_no": 168,
+            "card_title": "",
+            "player_names": [
+                "Bill Greif"
+            ],
+            "player_teams": [
+                "San Diego Padres"
+            ]
+        },
+        {
+            "card_no": 169,
+            "card_title": "",
+            "player_names": [
+                "Cookie Rojas"
+            ],
+            "player_teams": [
+                "Kansas City Royals"
+            ]
+        },
+        {
+            "card_no": 170,
+            "card_title": "",
+            "player_names": [
+                "Bert Campaneris"
+            ],
+            "player_teams": [
+                "Oakland Athletics"
+            ]
+        },
+        {
+            "card_no": 171,
+            "card_title": "",
+            "player_names": [
+                "Ed Kirkpatrick"
+            ],
+            "player_teams": [
+                "Pittsburgh Pirates"
+            ]
+        },
+        {
+            "card_no": 172,
+            "card_title": "Boston Red Sox Team Checklist",
+            "player_names": [
+                ""
+            ],
+            "player_teams": [
+                "Boston Red Sox"
+            ]
+        },
+        {
+            "card_no": 173,
+            "card_title": "",
+            "player_names": [
+                "Steve Rogers"
+            ],
+            "player_teams": [
+                "Montreal Expos"
+            ]
+        },
+        {
+            "card_no": 174,
+            "card_title": "",
+            "player_names": [
+                "Bake McBride"
+            ],
+            "player_teams": [
+                "St. Louis Cardinals"
+            ]
+        },
+        {
+            "card_no": 175,
+            "card_title": "",
+            "player_names": [
+                "Don Money"
+            ],
+            "player_teams": [
+                "Milwaukee Brewers"
+            ]
+        },
+        {
+            "card_no": 176,
+            "card_title": "",
+            "player_names": [
+                "Burt Hooton"
+            ],
+            "player_teams": [
+                "Chicago Cubs"
+            ]
+        },
+        {
+            "card_no": 177,
+            "card_title": "",
+            "player_names": [
+                "Vic Correll"
+            ],
+            "player_teams": [
+                "Atlanta Braves"
+            ]
+        },
+        {
+            "card_no": 178,
+            "card_title": "",
+            "player_names": [
+                "Cesar Tovar"
+            ],
+            "player_teams": [
+                "Texas Rangers"
+            ]
+        },
+        {
+            "card_no": 179,
+            "card_title": "",
+            "player_names": [
+                "Tom Bradley"
+            ],
+            "player_teams": [
+                "San Francisco Giants"
+            ]
+        },
+        {
+            "card_no": 180,
+            "card_title": "",
+            "player_names": [
+                "Joe Morgan"
+            ],
+            "player_teams": [
+                "Cincinnati Reds"
+            ]
+        },
+        {
+            "card_no": 181,
+            "card_title": "",
+            "player_names": [
+                "Fred Beene"
+            ],
+            "player_teams": [
+                "Cleveland Indians"
+            ]
+        },
+        {
+            "card_no": 182,
+            "card_title": "",
+            "player_names": [
+                "Don Hahn"
+            ],
+            "player_teams": [
+                "New York Mets"
+            ]
+        },
+        {
+            "card_no": 183,
+            "card_title": "",
+            "player_names": [
+                "Mel Stottlemyre"
+            ],
+            "player_teams": [
+                "New York Yankees"
+            ]
+        },
+        {
+            "card_no": 184,
+            "card_title": "",
+            "player_names": [
+                "Jorge Orta"
+            ],
+            "player_teams": [
+                "Chicago White Sox"
+            ]
+        },
+        {
+            "card_no": 185,
+            "card_title": "",
+            "player_names": [
+                "Steve Carlton"
+            ],
+            "player_teams": [
+                "Philadelphia Phillies"
+            ]
+        },
+        {
+            "card_no": 186,
+            "card_title": "",
+            "player_names": [
+                "Willie Crawford"
+            ],
+            "player_teams": [
+                "Los Angeles Dodgers"
+            ]
+        },
+        {
+            "card_no": 187,
+            "card_title": "",
+            "player_names": [
+                "Denny Doyle"
+            ],
+            "player_teams": [
+                "California Angels"
+            ]
+        },
+        {
+            "card_no": 188,
+            "card_title": "",
+            "player_names": [
+                "Tom Griffin"
+            ],
+            "player_teams": [
+                "Houston Astros"
+            ]
+        },
+        {
+            "card_no": 189,
+            "card_title": "1951 MVPs",
+            "player_names": [
+                "Yogi Berra",
+                "Roy Campanella"
+            ],
+            "player_teams": [
+                "New York Yankees",
+                "Brooklyn Dodgers"
+            ]
+        },
+        {
+            "card_no": 190,
+            "card_title": "1952 MVPs",
+            "player_names": [
+                "Bobby Shantz",
+                "Hank Sauer"
+            ],
+            "player_teams": [
+                "Kansas City Athletics",
+                "Chicago Cubs"
+            ]
+        },
+        {
+            "card_no": 191,
+            "card_title": "1953 MVPs",
+            "player_names": [
+                "Al Rosen",
+                "Roy Campanella"
+            ],
+            "player_teams": [
+                "Cleveland Indians",
+                "Brooklyn Dodgers"
+            ]
+        },
+        {
+            "card_no": 192,
+            "card_title": "1954 MVPs",
+            "player_names": [
+                "Yogi Berra",
+                "Willie Mays"
+            ],
+            "player_teams": [
+                "New York Yankees",
+                "New York Giants"
+            ]
+        },
+        {
+            "card_no": 193,
+            "card_title": "1955 MVPs",
+            "player_names": [
+                "Yogi Berra",
+                "Roy Campanella"
+            ],
+            "player_teams": [
+                "New York Yankees",
+                "Brooklyn Dodgers"
+            ]
+        },
+        {
+            "card_no": 194,
+            "card_title": "1956 MVPs",
+            "player_names": [
+                "Mickey Mantle",
+                "Don Newcombe"
+            ],
+            "player_teams": [
+                "New York Yankees",
+                "Brooklyn Dodgers"
+            ]
+        },
+        {
+            "card_no": 195,
+            "card_title": "1957 MVPs",
+            "player_names": [
+                "Mickey Mantle",
+                "Hank Aaron"
+            ],
+            "player_teams": [
+                "New York Yankees",
+                "Milwaukee Braves"
+            ]
+        },
+        {
+            "card_no": 196,
+            "card_title": "1958 MVPs",
+            "player_names": [
+                "Jackie Jensen",
+                "Ernie Banks"
+            ],
+            "player_teams": [
+                "Boston Red Sox",
+                "Chicago Cubs"
+            ]
+        },
+        {
+            "card_no": 197,
+            "card_title": "1959 MVPs",
+            "player_names": [
+                "Nellie Fox",
+                "Ernie Banks"
+            ],
+            "player_teams": [
+                "Chicago White Sox",
+                "Chicago Cubs"
+            ]
+        },
+        {
+            "card_no": 198,
+            "card_title": "1960 MVPs",
+            "player_names": [
+                "Roger Maris",
+                "Dick Groat"
+            ],
+            "player_teams": [
+                "New York Yankees",
+                "Pittsburgh Pirates"
+            ]
+        },
+        {
+            "card_no": 199,
+            "card_title": "1961 MVPs",
+            "player_names": [
+                "Roger Maris",
+                "Frank Robinson"
+            ],
+            "player_teams": [
+                "New York Yankees",
+                "Cincinnati Reds"
+            ]
+        },
+        {
+            "card_no": 200,
+            "card_title": "1962 MVPs",
+            "player_names": [
+                "Mickey Mantle",
+                "Maury Wills"
+            ],
+            "player_teams": [
+                "New York Yankees",
+                "Los Angeles Dodgers"
+            ]
+        },
+        {
+            "card_no": 201,
+            "card_title": "1963 MVPs",
+            "player_names": [
+                "Elston Howard",
+                "Sandy Koufax"
+            ],
+            "player_teams": [
+                "New York Yankees",
+                "Los Angeles Dodgers"
+            ]
+        },
+        {
+            "card_no": 202,
+            "card_title": "1964 MVPs",
+            "player_names": [
+                "Brooks Robinson",
+                "Ken Boyer"
+            ],
+            "player_teams": [
+                "Baltimore Orioles",
+                "St. Louis Cardinals"
+            ]
+        },
+        {
+            "card_no": 203,
+            "card_title": "1965 MVPs",
+            "player_names": [
+                "Zoilo Versalles",
+                "Willie Mays"
+            ],
+            "player_teams": [
+                "Minnesota Twins",
+                "San Francisco Giants"
+            ]
+        },
+        {
+            "card_no": 204,
+            "card_title": "1966 MVPs",
+            "player_names": [
+                "Frank Robinson",
+                "Roberto Clemente"
+            ],
+            "player_teams": [
+                "Baltimore Orioles",
+                "Pittsburgh Pirates"
+            ]
+        },
+        {
+            "card_no": 205,
+            "card_title": "1967 MVPs",
+            "player_names": [
+                "Carl Yastrzemski",
+                "Orlando Cepeda"
+            ],
+            "player_teams": [
+                "Boston Red Sox",
+                "St. Louis Cardinals"
+            ]
+        },
+        {
+            "card_no": 206,
+            "card_title": "1968 MVPs",
+            "player_names": [
+                "Denny McLain",
+                "Bob Gibson"
+            ],
+            "player_teams": [
+                "Detroit Tigers",
+                "St. Louis Cardinals"
+            ]
+        },
+        {
+            "card_no": 207,
+            "card_title": "1969 MVPs",
+            "player_names": [
+                "Harmon Killebrew",
+                "Willie McCovey"
+            ],
+            "player_teams": [
+                "Minnesota Twins",
+                "San Francisco Giants"
+            ]
+        },
+        {
+            "card_no": 208,
+            "card_title": "1970 MVPs",
+            "player_names": [
+                "Boog Powell",
+                "Johnny Bench"
+            ],
+            "player_teams": [
+                "Baltimore Orioles",
+                "Cincinnati Reds"
+            ]
+        },
+        {
+            "card_no": 209,
+            "card_title": "1971 MVPs",
+            "player_names": [
+                "Vida Blue",
+                "Joe Torre"
+            ],
+            "player_teams": [
+                "Oakland Athletics",
+                "St. Louis Cardinals"
+            ]
+        },
+        {
+            "card_no": 210,
+            "card_title": "1972 MVPs",
+            "player_names": [
+                "Rich Allen",
+                "Johnny Bench"
+            ],
+            "player_teams": [
+                "Chicago White Sox",
+                "Cincinnati Reds"
+            ]
+        },
+        {
+            "card_no": 211,
+            "card_title": "1973 MVPs",
+            "player_names": [
+                "Reggie Jackson",
+                "Pete Rose"
+            ],
+            "player_teams": [
+                "Oakland Athletics",
+                "Cincinnati Reds"
+            ]
+        },
+        {
+            "card_no": 212,
+            "card_title": "1974 MVPs",
+            "player_names": [
+                "Jeff Burroughs",
+                "Steve Garvey"
+            ],
+            "player_teams": [
+                "Texas Rangers",
+                "Los Angeles Dodgers"
+            ]
+        },
+        {
+            "card_no": 213,
+            "card_title": "",
+            "player_names": [
+                "Oscar Gamble"
+            ],
+            "player_teams": [
+                "Cleveland Indians"
+            ]
+        },
+        {
+            "card_no": 214,
+            "card_title": "",
+            "player_names": [
+                "Harry Parker"
+            ],
+            "player_teams": [
+                "New York Mets"
+            ]
+        },
+        {
+            "card_no": 215,
+            "card_title": "",
+            "player_names": [
+                "Bobby Valentine"
+            ],
+            "player_teams": [
+                "California Angels"
+            ]
+        },
+        {
+            "card_no": 216,
+            "card_title": "San Francisco Giants Team Checklist",
+            "player_names": [
+                ""
+            ],
+            "player_teams": [
+                "San Francisco Giants"
+            ]
+        },
+        {
+            "card_no": 217,
+            "card_title": "",
+            "player_names": [
+                "Lou Piniella"
+            ],
+            "player_teams": [
+                "New York Yankees"
+            ]
+        },
+        {
+            "card_no": 218,
+            "card_title": "",
+            "player_names": [
+                "Jerry Johnson"
+            ],
+            "player_teams": [
+                "Houston Astros"
+            ]
+        },
+        {
+            "card_no": 219,
+            "card_title": "",
+            "player_names": [
+                "Ed Herrmann"
+            ],
+            "player_teams": [
+                "Chicago White Sox"
+            ]
+        },
+        {
+            "card_no": 220,
+            "card_title": "",
+            "player_names": [
+                "Don Sutton"
+            ],
+            "player_teams": [
+                "Los Angeles Dodgers"
+            ]
+        },
+        {
+            "card_no": 221,
+            "card_title": "",
+            "player_names": [
+                "Aurelio Rodriguez"
+            ],
+            "player_teams": [
+                "Detroit Tigers"
+            ]
+        },
+        {
+            "card_no": 222,
+            "card_title": "",
+            "player_names": [
+                "Dan Spillner"
+            ],
+            "player_teams": [
+                "San Diego Padres"
+            ]
+        },
+        {
+            "card_no": 223,
+            "card_title": "",
+            "player_names": [
+                "Robin Yount"
+            ],
+            "player_teams": [
+                "Milwaukee Brewers"
+            ]
+        },
+        {
+            "card_no": 224,
+            "card_title": "",
+            "player_names": [
+                "Ramon Hernandez"
+            ],
+            "player_teams": [
+                "Pittsburgh Pirates"
+            ]
+        },
+        {
+            "card_no": 225,
+            "card_title": "",
+            "player_names": [
+                "Bob Grich"
+            ],
+            "player_teams": [
+                "Baltimore Orioles"
+            ]
+        },
+        {
+            "card_no": 226,
+            "card_title": "",
+            "player_names": [
+                "Bill Campbell"
+            ],
+            "player_teams": [
+                "Minnesota Twins"
+            ]
+        },
+        {
+            "card_no": 227,
+            "card_title": "",
+            "player_names": [
+                "Bob Watson"
+            ],
+            "player_teams": [
+                "Houston Astros"
+            ]
+        },
+        {
+            "card_no": 228,
+            "card_title": "",
+            "player_names": [
+                "George Brett"
+            ],
+            "player_teams": [
+                "Kansas City Royals"
+            ]
+        },
+        {
+            "card_no": 229,
+            "card_title": "",
+            "player_names": [
+                "Barry Foote"
+            ],
+            "player_teams": [
+                "Montreal Expos"
+            ]
+        },
+        {
+            "card_no": 230,
+            "card_title": "",
+            "player_names": [
+                "Jim Hunter"
+            ],
+            "player_teams": [
+                "Oakland Athletics"
+            ]
+        },
+        {
+            "card_no": 231,
+            "card_title": "",
+            "player_names": [
+                "Mike Tyson"
+            ],
+            "player_teams": [
+                "St. Louis Cardinals"
+            ]
+        },
+        {
+            "card_no": 232,
+            "card_title": "",
+            "player_names": [
+                "Diego Segui"
+            ],
+            "player_teams": [
+                "Boston Red Sox"
+            ]
+        },
+        {
+            "card_no": 233,
+            "card_title": "",
+            "player_names": [
+                "Billy Grabarkewitz"
+            ],
+            "player_teams": [
+                "Chicago Cubs"
+            ]
+        },
+        {
+            "card_no": 234,
+            "card_title": "",
+            "player_names": [
+                "Tom Grieve"
+            ],
+            "player_teams": [
+                "Texas Rangers"
+            ]
+        },
+        {
+            "card_no": 235,
+            "card_title": "",
+            "player_names": [
+                "Jack Billingham"
+            ],
+            "player_teams": [
+                "Cincinnati Reds"
+            ]
+        },
+        {
+            "card_no": 236,
+            "card_title": "California Angels Team Checklist",
+            "player_names": [
+                ""
+            ],
+            "player_teams": [
+                "California Angels"
+            ]
+        },
+        {
+            "card_no": 237,
+            "card_title": "",
+            "player_names": [
+                "Carl Morton"
+            ],
+            "player_teams": [
+                "Atlanta Braves"
+            ]
+        },
+        {
+            "card_no": 238,
+            "card_title": "",
+            "player_names": [
+                "Dave Duncan"
+            ],
+            "player_teams": [
+                "Cleveland Indians"
+            ]
+        },
+        {
+            "card_no": 239,
+            "card_title": "",
+            "player_names": [
+                "George Stone"
+            ],
+            "player_teams": [
+                "New York Mets"
+            ]
+        },
+        {
+            "card_no": 240,
+            "card_title": "",
+            "player_names": [
+                "Garry Maddox"
+            ],
+            "player_teams": [
+                "San Francisco Giants"
+            ]
+        },
+        {
+            "card_no": 241,
+            "card_title": "",
+            "player_names": [
+                "Dick Tidrow"
+            ],
+            "player_teams": [
+                "New York Yankees"
+            ]
+        },
+        {
+            "card_no": 242,
+            "card_title": "",
+            "player_names": [
+                "Jay Johnstone"
+            ],
+            "player_teams": [
+                "Philadelphia Phillies"
+            ]
+        },
+        {
+            "card_no": 243,
+            "card_title": "",
+            "player_names": [
+                "Jim Kaat"
+            ],
+            "player_teams": [
+                "Chicago White Sox"
+            ]
+        },
+        {
+            "card_no": 244,
+            "card_title": "",
+            "player_names": [
+                "Bill Buckner"
+            ],
+            "player_teams": [
+                "Los Angeles Dodgers"
+            ]
+        },
+        {
+            "card_no": 245,
+            "card_title": "",
+            "player_names": [
+                "Mickey Lolich"
+            ],
+            "player_teams": [
+                "Detroit Tigers"
+            ]
+        },
+        {
+            "card_no": 246,
+            "card_title": "St. Louis Cardinals Team Checklist",
+            "player_names": [
+                ""
+            ],
+            "player_teams": [
+                "St. Louis Cardinals"
+            ]
+        },
+        {
+            "card_no": 247,
+            "card_title": "",
+            "player_names": [
+                "Enos Cabell"
+            ],
+            "player_teams": [
+                "Baltimore Orioles"
+            ]
+        },
+        {
+            "card_no": 248,
+            "card_title": "",
+            "player_names": [
+                "Randy Jones"
+            ],
+            "player_teams": [
+                "San Diego Padres"
+            ]
+        },
+        {
+            "card_no": 249,
+            "card_title": "",
+            "player_names": [
+                "Danny Thompson"
+            ],
+            "player_teams": [
+                "Minnesota Twins"
+            ]
+        },
+        {
+            "card_no": 250,
+            "card_title": "",
+            "player_names": [
+                "Ken Brett"
+            ],
+            "player_teams": [
+                "Pittsburgh Pirates"
+            ]
+        },
+        {
+            "card_no": 251,
+            "card_title": "",
+            "player_names": [
+                "Fran Healy"
+            ],
+            "player_teams": [
+                "Kansas City Royals"
+            ]
+        },
+        {
+            "card_no": 252,
+            "card_title": "",
+            "player_names": [
+                "Fred Scherman"
+            ],
+            "player_teams": [
+                "Houston Astros"
+            ]
+        },
+        {
+            "card_no": 253,
+            "card_title": "",
+            "player_names": [
+                "Jesus Alou"
+            ],
+            "player_teams": [
+                "Oakland Athletics"
+            ]
+        },
+        {
+            "card_no": 254,
+            "card_title": "",
+            "player_names": [
+                "Mike Torrez"
+            ],
+            "player_teams": [
+                "Montreal Expos"
+            ]
+        },
+        {
+            "card_no": 255,
+            "card_title": "",
+            "player_names": [
+                "Dwight Evans"
+            ],
+            "player_teams": [
+                "Boston Red Sox"
+            ]
+        },
+        {
+            "card_no": 256,
+            "card_title": "",
+            "player_names": [
+                "Billy Champion"
+            ],
+            "player_teams": [
+                "Milwaukee Brewers"
+            ]
+        },
+        {
+            "card_no": 257,
+            "card_title": "Checklist (#133-264)",
+            "player_names": [
+                ""
+            ],
+            "player_teams": [
+                ""
+            ]
+        },
+        {
+            "card_no": 258,
+            "card_title": "",
+            "player_names": [
+                "Dave LaRoche"
+            ],
+            "player_teams": [
+                "Chicago Cubs"
+            ]
+        },
+        {
+            "card_no": 259,
+            "card_title": "",
+            "player_names": [
+                "Len Randle"
+            ],
+            "player_teams": [
+                "Texas Rangers"
+            ]
+        },
+        {
+            "card_no": 260,
+            "card_title": "",
+            "player_names": [
+                "Johnny Bench"
+            ],
+            "player_teams": [
+                "Cincinnati Reds"
+            ]
+        },
+        {
+            "card_no": 261,
+            "card_title": "",
+            "player_names": [
+                "Andy Hassler"
+            ],
+            "player_teams": [
+                "California Angels"
+            ]
+        },
+        {
+            "card_no": 262,
+            "card_title": "",
+            "player_names": [
+                "Rowland Office"
+            ],
+            "player_teams": [
+                "Atlanta Braves"
+            ]
+        },
+        {
+            "card_no": 263,
+            "card_title": "",
+            "player_names": [
+                "Jim Perry"
+            ],
+            "player_teams": [
+                "Cleveland Indians"
+            ]
+        },
+        {
+            "card_no": 264,
+            "card_title": "",
+            "player_names": [
+                "John Milner"
+            ],
+            "player_teams": [
+                "New York Mets"
+            ]
+        },
+        {
+            "card_no": 265,
+            "card_title": "",
+            "player_names": [
+                "Ron Bryant"
+            ],
+            "player_teams": [
+                "San Francisco Giants"
+            ]
+        },
+        {
+            "card_no": 266,
+            "card_title": "",
+            "player_names": [
+                "Sandy Alomar"
+            ],
+            "player_teams": [
+                "New York Yankees"
+            ]
+        },
+        {
+            "card_no": 267,
+            "card_title": "",
+            "player_names": [
+                "Dick Ruthven"
+            ],
+            "player_teams": [
+                "Philadelphia Phillies"
+            ]
+        },
+        {
+            "card_no": 268,
+            "card_title": "",
+            "player_names": [
+                "Hal McRae"
+            ],
+            "player_teams": [
+                "Kansas City Royals"
+            ]
+        },
+        {
+            "card_no": 269,
+            "card_title": "",
+            "player_names": [
+                "Doug Rau"
+            ],
+            "player_teams": [
+                "Los Angeles Dodgers"
+            ]
+        },
+        {
+            "card_no": 270,
+            "card_title": "",
+            "player_names": [
+                "Ron Fairly"
+            ],
+            "player_teams": [
+                "Montreal Expos"
+            ]
+        },
+        {
+            "card_no": 271,
+            "card_title": "",
+            "player_names": [
+                "Jerry Moses"
+            ],
+            "player_teams": [
+                "Detroit Tigers"
+            ]
+        },
+        {
+            "card_no": 272,
+            "card_title": "",
+            "player_names": [
+                "Lynn McGlothen"
+            ],
+            "player_teams": [
+                "St. Louis Cardinals"
+            ]
+        },
+        {
+            "card_no": 273,
+            "card_title": "",
+            "player_names": [
+                "Steve Braun"
+            ],
+            "player_teams": [
+                "Minnesota Twins"
+            ]
+        },
+        {
+            "card_no": 274,
+            "card_title": "",
+            "player_names": [
+                "Vicente Romo"
+            ],
+            "player_teams": [
+                "San Diego Padres"
+            ]
+        },
+        {
+            "card_no": 275,
+            "card_title": "",
+            "player_names": [
+                "Paul Blair"
+            ],
+            "player_teams": [
+                "Baltimore Orioles"
+            ]
+        },
+        {
+            "card_no": 276,
+            "card_title": "Chicago White Sox Team Checklist",
+            "player_names": [
+                ""
+            ],
+            "player_teams": [
+                "Chicago White Sox"
+            ]
+        },
+        {
+            "card_no": 277,
+            "card_title": "",
+            "player_names": [
+                "Frank Taveras"
+            ],
+            "player_teams": [
+                "Pittsburgh Pirates"
+            ]
+        },
+        {
+            "card_no": 278,
+            "card_title": "",
+            "player_names": [
+                "Paul Lindblad"
+            ],
+            "player_teams": [
+                "Oakland Athletics"
+            ]
+        },
+        {
+            "card_no": 279,
+            "card_title": "",
+            "player_names": [
+                "Milt May"
+            ],
+            "player_teams": [
+                "Houston Astros"
+            ]
+        },
+        {
+            "card_no": 280,
+            "card_title": "",
+            "player_names": [
+                "Carl Yastrzemski"
+            ],
+            "player_teams": [
+                "Boston Red Sox"
+            ]
+        },
+        {
+            "card_no": 281,
+            "card_title": "",
+            "player_names": [
+                "Jim Slaton"
+            ],
+            "player_teams": [
+                "Milwaukee Brewers"
+            ]
+        },
+        {
+            "card_no": 282,
+            "card_title": "",
+            "player_names": [
+                "Jerry Morales"
+            ],
+            "player_teams": [
+                "Chicago Cubs"
+            ]
+        },
+        {
+            "card_no": 283,
+            "card_title": "",
+            "player_names": [
+                "Steve Foucault"
+            ],
+            "player_teams": [
+                "Texas Rangers"
+            ]
+        },
+        {
+            "card_no": 284,
+            "card_title": "",
+            "player_names": [
+                "Ken Griffey"
+            ],
+            "player_teams": [
+                "Cincinnati Reds"
+            ]
+        },
+        {
+            "card_no": 285,
+            "card_title": "",
+            "player_names": [
+                "Ellie Rodriguez"
+            ],
+            "player_teams": [
+                "California Angels"
+            ]
+        },
+        {
+            "card_no": 286,
+            "card_title": "",
+            "player_names": [
+                "Mike Jorgensen"
+            ],
+            "player_teams": [
+                "Montreal Expos"
+            ]
+        },
+        {
+            "card_no": 287,
+            "card_title": "",
+            "player_names": [
+                "Roric Harrison"
+            ],
+            "player_teams": [
+                "Atlanta Braves"
+            ]
+        },
+        {
+            "card_no": 288,
+            "card_title": "",
+            "player_names": [
+                "Bruce Ellingsen"
+            ],
+            "player_teams": [
+                "Cleveland Indians"
+            ]
+        },
+        {
+            "card_no": 289,
+            "card_title": "",
+            "player_names": [
+                "Ken Rudolph"
+            ],
+            "player_teams": [
+                "St. Louis Cardinals"
+            ]
+        },
+        {
+            "card_no": 290,
+            "card_title": "",
+            "player_names": [
+                "Jon Matlack"
+            ],
+            "player_teams": [
+                "New York Mets"
+            ]
+        },
+        {
+            "card_no": 291,
+            "card_title": "",
+            "player_names": [
+                "Bill Sudakis"
+            ],
+            "player_teams": [
+                "New York Yankees"
+            ]
+        },
+        {
+            "card_no": 292,
+            "card_title": "",
+            "player_names": [
+                "Ron Schueler"
+            ],
+            "player_teams": [
+                "Philadelphia Phillies"
+            ]
+        },
+        {
+            "card_no": 293,
+            "card_title": "",
+            "player_names": [
+                "Dick Sharon"
+            ],
+            "player_teams": [
+                "Detroit Tigers"
+            ]
+        },
+        {
+            "card_no": 294,
+            "card_title": "",
+            "player_names": [
+                "Geoff Zahn"
+            ],
+            "player_teams": [
+                "Los Angeles Dodgers"
+            ]
+        },
+        {
+            "card_no": 295,
+            "card_title": "",
+            "player_names": [
+                "Vada Pinson"
+            ],
+            "player_teams": [
+                "Kansas City Royals"
+            ]
+        },
+        {
+            "card_no": 296,
+            "card_title": "",
+            "player_names": [
+                "Alan Foster"
+            ],
+            "player_teams": [
+                "St. Louis Cardinals"
+            ]
+        },
+        {
+            "card_no": 297,
+            "card_title": "",
+            "player_names": [
+                "Craig Kusick"
+            ],
+            "player_teams": [
+                "Minnesota Twins"
+            ]
+        },
+        {
+            "card_no": 298,
+            "card_title": "",
+            "player_names": [
+                "Johnny Grubb"
+            ],
+            "player_teams": [
+                "San Diego Padres"
+            ]
+        },
+        {
+            "card_no": 299,
+            "card_title": "",
+            "player_names": [
+                "Bucky Dent"
+            ],
+            "player_teams": [
+                "Chicago White Sox"
+            ]
+        },
+        {
+            "card_no": 300,
+            "card_title": "",
+            "player_names": [
+                "Reggie Jackson"
+            ],
+            "player_teams": [
+                "Oakland Athletics"
+            ]
+        },
+        {
+            "card_no": 301,
+            "card_title": "",
+            "player_names": [
+                "Dave Roberts"
+            ],
+            "player_teams": [
+                "Houston Astros"
+            ]
+        },
+        {
+            "card_no": 302,
+            "card_title": "",
+            "player_names": [
+                "Rick Burleson"
+            ],
+            "player_teams": [
+                "Boston Red Sox"
+            ]
+        },
+        {
+            "card_no": 303,
+            "card_title": "",
+            "player_names": [
+                "Grant Jackson"
+            ],
+            "player_teams": [
+                "Baltimore Orioles"
+            ]
+        },
+        {
+            "card_no": 304,
+            "card_title": "Pittsburgh Pirates Team Checklist",
+            "player_names": [
+                ""
+            ],
+            "player_teams": [
+                "Pittsburgh Pirates"
+            ]
+        },
+        {
+            "card_no": 305,
+            "card_title": "",
+            "player_names": [
+                "Jim Colborn"
+            ],
+            "player_teams": [
+                "Milwaukee Brewers"
+            ]
+        },
+        {
+            "card_no": 306,
+            "card_title": "1974 Batting Leaders",
+            "player_names": [
+                "Rod Carew",
+                "Ralph Garr"
+            ],
+            "player_teams": [
+                "Minnesota Twins",
+                "Atlanta Braves"
+            ]
+        },
+        {
+            "card_no": 307,
+            "card_title": "1974 Home Run Leaders",
+            "player_names": [
+                "Dick Allen",
+                "Mike Schmidt"
+            ],
+            "player_teams": [
+                "Chicago White Sox",
+                "Philadelphia Phillies"
+            ]
+        },
+        {
+            "card_no": 308,
+            "card_title": "1974 RBI Leaders",
+            "player_names": [
+                "Jeff Burroughs",
+                "Johnny Bench"
+            ],
+            "player_teams": [
+                "Texas Rangers",
+                "Cincinnati Reds"
+            ]
+        },
+        {
+            "card_no": 309,
+            "card_title": "1974 Stolen Base Leaders",
+            "player_names": [
+                "Bill North",
+                "Lou Brock"
+            ],
+            "player_teams": [
+                "Oakland Athletics",
+                "St. Louis Cardinals"
+            ]
+        },
+        {
+            "card_no": 310,
+            "card_title": "1974 Victory Leaders",
+            "player_names": [
+                "Jim Hunter",
+                "Fergie Jenkins",
+                "Andy Messersmith",
+                "Phil Niekro"
+            ],
+            "player_teams": [
+                "Oakland Athletics",
+                "Texas Rangers",
+                "Los Angeles Dodgers",
+                "Atlanta Braves"
+            ]
+        },
+        {
+            "card_no": 311,
+            "card_title": "1974 ERA Leaders",
+            "player_names": [
+                "Jim Hunter",
+                "Buzz Capra)"
+            ],
+            "player_teams": [
+                "Oakland Athletics",
+                "Atlanta Braves"
+            ]
+        },
+        {
+            "card_no": 312,
+            "card_title": "1974 Strikeout Leaders",
+            "player_names": [
+                "Nolan Ryan",
+                "Steve Carlton"
+            ],
+            "player_teams": [
+                "California Angels",
+                "Philadelphia Phillies"
+            ]
+        },
+        {
+            "card_no": 313,
+            "card_title": "1974 Leading Firemen",
+            "player_names": [
+                "Terry Forster",
+                "Mike Marshall"
+            ],
+            "player_teams": [
+                "Chicago White Sox",
+                "Los Angeles Dodgers"
+            ]
+        },
+        {
+            "card_no": 314,
+            "card_title": "",
+            "player_names": [
+                "Buck Martinez"
+            ],
+            "player_teams": [
+                "Kansas City Royals"
+            ]
+        },
+        {
+            "card_no": 315,
+            "card_title": "",
+            "player_names": [
+                "Don Kessinger"
+            ],
+            "player_teams": [
+                "Chicago Cubs"
+            ]
+        },
+        {
+            "card_no": 316,
+            "card_title": "",
+            "player_names": [
+                "Jackie Brown"
+            ],
+            "player_teams": [
+                "Texas Rangers"
+            ]
+        },
+        {
+            "card_no": 317,
+            "card_title": "",
+            "player_names": [
+                "Joe Lahoud"
+            ],
+            "player_teams": [
+                "California Angels"
+            ]
+        },
+        {
+            "card_no": 318,
+            "card_title": "",
+            "player_names": [
+                "Ernie McAnally"
+            ],
+            "player_teams": [
+                "Montreal Expos"
+            ]
+        },
+        {
+            "card_no": 319,
+            "card_title": "",
+            "player_names": [
+                "Johnny Oates"
+            ],
+            "player_teams": [
+                "Atlanta Braves"
+            ]
+        },
+        {
+            "card_no": 320,
+            "card_title": "",
+            "player_names": [
+                "Pete Rose"
+            ],
+            "player_teams": [
+                "Cincinnati Reds"
+            ]
+        },
+        {
+            "card_no": 321,
+            "card_title": "",
+            "player_names": [
+                "Rudy May"
+            ],
+            "player_teams": [
+                "New York Yankees"
+            ]
+        },
+        {
+            "card_no": 322,
+            "card_title": "",
+            "player_names": [
+                "Ed Goodson"
+            ],
+            "player_teams": [
+                "San Francisco Giants"
+            ]
+        },
+        {
+            "card_no": 323,
+            "card_title": "",
+            "player_names": [
+                "Fred Holdsworth"
+            ],
+            "player_teams": [
+                "Detroit Tigers"
+            ]
+        },
+        {
+            "card_no": 324,
+            "card_title": "",
+            "player_names": [
+                "Ed Kranepool"
+            ],
+            "player_teams": [
+                "New York Mets"
+            ]
+        },
+        {
+            "card_no": 325,
+            "card_title": "",
+            "player_names": [
+                "Tony Oliva"
+            ],
+            "player_teams": [
+                "Minnesota Twins"
+            ]
+        },
+        {
+            "card_no": 326,
+            "card_title": "",
+            "player_names": [
+                "Wayne Twitchell"
+            ],
+            "player_teams": [
+                "Philadelphia Phillies"
+            ]
+        },
+        {
+            "card_no": 327,
+            "card_title": "",
+            "player_names": [
+                "Jerry Hairston"
+            ],
+            "player_teams": [
+                "Chicago White Sox"
+            ]
+        },
+        {
+            "card_no": 328,
+            "card_title": "",
+            "player_names": [
+                "Sonny Siebert"
+            ],
+            "player_teams": [
+                "St. Louis Cardinals"
+            ]
+        },
+        {
+            "card_no": 329,
+            "card_title": "",
+            "player_names": [
+                "Ted Kubiak"
+            ],
+            "player_teams": [
+                "Oakland Athletics"
+            ]
+        },
+        {
+            "card_no": 330,
+            "card_title": "",
+            "player_names": [
+                "Mike Marshall"
+            ],
+            "player_teams": [
+                "Los Angeles Dodgers"
+            ]
+        },
+        {
+            "card_no": 331,
+            "card_title": "Cleveland Indians Team Checklist",
+            "player_names": [
+                ""
+            ],
+            "player_teams": [
+                "Cleveland Indians"
+            ]
+        },
+        {
+            "card_no": 332,
+            "card_title": "",
+            "player_names": [
+                "Fred Kendall"
+            ],
+            "player_teams": [
+                "San Diego Padres"
+            ]
+        },
+        {
+            "card_no": 333,
+            "card_title": "",
+            "player_names": [
+                "Dick Drago"
+            ],
+            "player_teams": [
+                "Boston Red Sox"
+            ]
+        },
+        {
+            "card_no": 334,
+            "card_title": "",
+            "player_names": [
+                "Greg Gross"
+            ],
+            "player_teams": [
+                "Houston Astros"
+            ]
+        },
+        {
+            "card_no": 335,
+            "card_title": "",
+            "player_names": [
+                "Jim Palmer"
+            ],
+            "player_teams": [
+                "Baltimore Orioles"
+            ]
+        },
+        {
+            "card_no": 336,
+            "card_title": "",
+            "player_names": [
+                "Rennie Stennett"
+            ],
+            "player_teams": [
+                "Pittsburgh Pirates"
+            ]
+        },
+        {
+            "card_no": 337,
+            "card_title": "",
+            "player_names": [
+                "Kevin Kobel"
+            ],
+            "player_teams": [
+                "Milwaukee Brewers"
+            ]
+        },
+        {
+            "card_no": 338,
+            "card_title": "",
+            "player_names": [
+                "Rick Stelmaszek"
+            ],
+            "player_teams": [
+                "Chicago Cubs"
+            ]
+        },
+        {
+            "card_no": 339,
+            "card_title": "",
+            "player_names": [
+                "Jim Fregosi"
+            ],
+            "player_teams": [
+                "Texas Rangers"
+            ]
+        },
+        {
+            "card_no": 340,
+            "card_title": "",
+            "player_names": [
+                "Paul Splittorff"
+            ],
+            "player_teams": [
+                "Kansas City Royals"
+            ]
+        },
+        {
+            "card_no": 341,
+            "card_title": "",
+            "player_names": [
+                "Hal Breeden"
+            ],
+            "player_teams": [
+                "Montreal Expos"
+            ]
+        },
+        {
+            "card_no": 342,
+            "card_title": "",
+            "player_names": [
+                "Leroy Stanton"
+            ],
+            "player_teams": [
+                "California Angels"
+            ]
+        },
+        {
+            "card_no": 343,
+            "card_title": "",
+            "player_names": [
+                "Danny Frisella"
+            ],
+            "player_teams": [
+                "San Diego Padres"
+            ]
+        },
+        {
+            "card_no": 344,
+            "card_title": "",
+            "player_names": [
+                "Ben Oglivie"
+            ],
+            "player_teams": [
+                "Detroit Tigers"
+            ]
+        },
+        {
+            "card_no": 345,
+            "card_title": "",
+            "player_names": [
+                "Clay Carroll"
+            ],
+            "player_teams": [
+                "Cincinnati Reds"
+            ]
+        },
+        {
+            "card_no": 346,
+            "card_title": "",
+            "player_names": [
+                "Bobby Darwin"
+            ],
+            "player_teams": [
+                "Minnesota Twins"
+            ]
+        },
+        {
+            "card_no": 347,
+            "card_title": "",
+            "player_names": [
+                "Mike Caldwell"
+            ],
+            "player_teams": [
+                "San Francisco Giants"
+            ]
+        },
+        {
+            "card_no": 348,
+            "card_title": "",
+            "player_names": [
+                "Tony Muser"
+            ],
+            "player_teams": [
+                "Chicago White Sox"
+            ]
+        },
+        {
+            "card_no": 349,
+            "card_title": "",
+            "player_names": [
+                "Ray Sadecki"
+            ],
+            "player_teams": [
+                "St. Louis Cardinals"
+            ]
+        },
+        {
+            "card_no": 350,
+            "card_title": "",
+            "player_names": [
+                "Bobby Murcer"
+            ],
+            "player_teams": [
+                "San Francisco Giants"
+            ]
+        },
+        {
+            "card_no": 351,
+            "card_title": "",
+            "player_names": [
+                "Bob Boone"
+            ],
+            "player_teams": [
+                "Philadelphia Phillies"
+            ]
+        },
+        {
+            "card_no": 352,
+            "card_title": "",
+            "player_names": [
+                "Darold Knowles"
+            ],
+            "player_teams": [
+                "Chicago Cubs"
+            ]
+        },
+        {
+            "card_no": 353,
+            "card_title": "",
+            "player_names": [
+                "Luis Melendez"
+            ],
+            "player_teams": [
+                "St. Louis Cardinals"
+            ]
+        },
+        {
+            "card_no": 354,
+            "card_title": "",
+            "player_names": [
+                "Dick Bosman"
+            ],
+            "player_teams": [
+                "Cleveland Indians"
+            ]
+        },
+        {
+            "card_no": 355,
+            "card_title": "",
+            "player_names": [
+                "Chris Cannizzaro"
+            ],
+            "player_teams": [
+                "San Diego Padres"
+            ]
+        },
+        {
+            "card_no": 356,
+            "card_title": "",
+            "player_names": [
+                "Rico Petrocelli"
+            ],
+            "player_teams": [
+                "Boston Red Sox"
+            ]
+        },
+        {
+            "card_no": 357,
+            "card_title": "",
+            "player_names": [
+                "Ken Forsch"
+            ],
+            "player_teams": [
+                "Houston Astros"
+            ]
+        },
+        {
+            "card_no": 358,
+            "card_title": "",
+            "player_names": [
+                "Al Bumbry"
+            ],
+            "player_teams": [
+                "Baltimore Orioles"
+            ]
+        },
+        {
+            "card_no": 359,
+            "card_title": "",
+            "player_names": [
+                "Paul Popovich"
+            ],
+            "player_teams": [
+                "Pittsburgh Pirates"
+            ]
+        },
+        {
+            "card_no": 360,
+            "card_title": "",
+            "player_names": [
+                "George Scott"
+            ],
+            "player_teams": [
+                "Milwaukee Brewers"
+            ]
+        },
+        {
+            "card_no": 361,
+            "card_title": "Los Angeles Dodgers Team Checklist",
+            "player_names": [
+                ""
+            ],
+            "player_teams": [
+                "Los Angeles Dodgers"
+            ]
+        },
+        {
+            "card_no": 362,
+            "card_title": "",
+            "player_names": [
+                "Steve Hargan"
+            ],
+            "player_teams": [
+                "Texas Rangers"
+            ]
+        },
+        {
+            "card_no": 363,
+            "card_title": "",
+            "player_names": [
+                "Carmen Fanzone"
+            ],
+            "player_teams": [
+                "Chicago Cubs"
+            ]
+        },
+        {
+            "card_no": 364,
+            "card_title": "",
+            "player_names": [
+                "Doug Bird"
+            ],
+            "player_teams": [
+                "Kansas City Royals"
+            ]
+        },
+        {
+            "card_no": 365,
+            "card_title": "",
+            "player_names": [
+                "Bob Bailey"
+            ],
+            "player_teams": [
+                "Montreal Expos"
+            ]
+        },
+        {
+            "card_no": 366,
+            "card_title": "",
+            "player_names": [
+                "Ken Sanders"
+            ],
+            "player_teams": [
+                "California Angels"
+            ]
+        },
+        {
+            "card_no": 367,
+            "card_title": "",
+            "player_names": [
+                "Craig Robinson"
+            ],
+            "player_teams": [
+                "Atlanta Braves"
+            ]
+        },
+        {
+            "card_no": 368,
+            "card_title": "",
+            "player_names": [
+                "Vic Albury"
+            ],
+            "player_teams": [
+                "Minnesota Twins"
+            ]
+        },
+        {
+            "card_no": 369,
+            "card_title": "",
+            "player_names": [
+                "Merv Rettenmund"
+            ],
+            "player_teams": [
+                "Cincinnati Reds"
+            ]
+        },
+        {
+            "card_no": 370,
+            "card_title": "",
+            "player_names": [
+                "Tom Seaver"
+            ],
+            "player_teams": [
+                "New York Mets"
+            ]
+        },
+        {
+            "card_no": 371,
+            "card_title": "",
+            "player_names": [
+                "Gates Brown"
+            ],
+            "player_teams": [
+                "Detroit Tigers"
+            ]
+        },
+        {
+            "card_no": 372,
+            "card_title": "",
+            "player_names": [
+                "John D'Acquisto"
+            ],
+            "player_teams": [
+                "San Francisco Giants"
+            ]
+        },
+        {
+            "card_no": 373,
+            "card_title": "",
+            "player_names": [
+                "Bill Sharp"
+            ],
+            "player_teams": [
+                "Chicago White Sox"
+            ]
+        },
+        {
+            "card_no": 374,
+            "card_title": "",
+            "player_names": [
+                "Eddie Watt"
+            ],
+            "player_teams": [
+                "Philadelphia Phillies"
+            ]
+        },
+        {
+            "card_no": 375,
+            "card_title": "",
+            "player_names": [
+                "Roy White"
+            ],
+            "player_teams": [
+                "New York Yankees"
+            ]
+        },
+        {
+            "card_no": 376,
+            "card_title": "",
+            "player_names": [
+                "Steve Yeager"
+            ],
+            "player_teams": [
+                "Los Angeles Dodgers"
+            ]
+        },
+        {
+            "card_no": 377,
+            "card_title": "",
+            "player_names": [
+                "Tom Hilgendorf"
+            ],
+            "player_teams": [
+                "Cleveland Indians"
+            ]
+        },
+        {
+            "card_no": 378,
+            "card_title": "",
+            "player_names": [
+                "Derrel Thomas"
+            ],
+            "player_teams": [
+                "San Diego Padres"
+            ]
+        },
+        {
+            "card_no": 379,
+            "card_title": "",
+            "player_names": [
+                "Bernie Carbo"
+            ],
+            "player_teams": [
+                "Boston Red Sox"
+            ]
+        },
+        {
+            "card_no": 380,
+            "card_title": "",
+            "player_names": [
+                "Sal Bando"
+            ],
+            "player_teams": [
+                "Oakland Athletics"
+            ]
+        },
+        {
+            "card_no": 381,
+            "card_title": "",
+            "player_names": [
+                "John Curtis"
+            ],
+            "player_teams": [
+                "St. Louis Cardinals"
+            ]
+        },
+        {
+            "card_no": 382,
+            "card_title": "",
+            "player_names": [
+                "Don Baylor"
+            ],
+            "player_teams": [
+                "Baltimore Orioles"
+            ]
+        },
+        {
+            "card_no": 383,
+            "card_title": "",
+            "player_names": [
+                "Jim York"
+            ],
+            "player_teams": [
+                "Houston Astros"
+            ]
+        },
+        {
+            "card_no": 384,
+            "card_title": "Milwaukee Brewers Team Checklist",
+            "player_names": [
+                ""
+            ],
+            "player_teams": [
+                "Milwaukee Brewers"
+            ]
+        },
+        {
+            "card_no": 385,
+            "card_title": "",
+            "player_names": [
+                "Dock Ellis"
+            ],
+            "player_teams": [
+                "Pittsburgh Pirates"
+            ]
+        },
+        {
+            "card_no": 386,
+            "card_title": "Checklist (#265-396)",
+            "player_names": [
+                ""
+            ],
+            "player_teams": [
+                ""
+            ]
+        },
+        {
+            "card_no": 387,
+            "card_title": "",
+            "player_names": [
+                "Jim Spencer"
+            ],
+            "player_teams": [
+                "Texas Rangers"
+            ]
+        },
+        {
+            "card_no": 388,
+            "card_title": "",
+            "player_names": [
+                "Steve Stone"
+            ],
+            "player_teams": [
+                "Chicago Cubs"
+            ]
+        },
+        {
+            "card_no": 389,
+            "card_title": "",
+            "player_names": [
+                "Tony Solaita"
+            ],
+            "player_teams": [
+                "Kansas City Royals"
+            ]
+        },
+        {
+            "card_no": 390,
+            "card_title": "",
+            "player_names": [
+                "Ron Cey"
+            ],
+            "player_teams": [
+                "Los Angeles Dodgers"
+            ]
+        },
+        {
+            "card_no": 391,
+            "card_title": "",
+            "player_names": [
+                "Don DeMola"
+            ],
+            "player_teams": [
+                "Montreal Expos"
+            ]
+        },
+        {
+            "card_no": 392,
+            "card_title": "",
+            "player_names": [
+                "Bruce Bochte"
+            ],
+            "player_teams": [
+                "California Angels"
+            ]
+        },
+        {
+            "card_no": 393,
+            "card_title": "",
+            "player_names": [
+                "Gary Gentry"
+            ],
+            "player_teams": [
+                "Atlanta Braves"
+            ]
+        },
+        {
+            "card_no": 394,
+            "card_title": "",
+            "player_names": [
+                "Larvell Blanks"
+            ],
+            "player_teams": [
+                "Atlanta Braves"
+            ]
+        },
+        {
+            "card_no": 395,
+            "card_title": "",
+            "player_names": [
+                "Bud Harrelson"
+            ],
+            "player_teams": [
+                "New York Mets"
+            ]
+        },
+        {
+            "card_no": 396,
+            "card_title": "",
+            "player_names": [
+                "Fred Norman"
+            ],
+            "player_teams": [
+                "Cincinnati Reds"
+            ]
+        },
+        {
+            "card_no": 397,
+            "card_title": "",
+            "player_names": [
+                "Bill Freehan"
+            ],
+            "player_teams": [
+                "Detroit Tigers"
+            ]
+        },
+        {
+            "card_no": 398,
+            "card_title": "",
+            "player_names": [
+                "Elias Sosa"
+            ],
+            "player_teams": [
+                "St. Louis Cardinals"
+            ]
+        },
+        {
+            "card_no": 399,
+            "card_title": "",
+            "player_names": [
+                "Terry Harmon"
+            ],
+            "player_teams": [
+                "Philadelphia Phillies"
+            ]
+        },
+        {
+            "card_no": 400,
+            "card_title": "",
+            "player_names": [
+                "Dick Allen"
+            ],
+            "player_teams": [
+                "Chicago White Sox"
+            ]
+        },
+        {
+            "card_no": 401,
+            "card_title": "",
+            "player_names": [
+                "Mike Wallace"
+            ],
+            "player_teams": [
+                "New York Yankees"
+            ]
+        },
+        {
+            "card_no": 402,
+            "card_title": "",
+            "player_names": [
+                "Bob Tolan"
+            ],
+            "player_teams": [
+                "San Diego Padres"
+            ]
+        },
+        {
+            "card_no": 403,
+            "card_title": "",
+            "player_names": [
+                "Tom Buskey"
+            ],
+            "player_teams": [
+                "Cleveland Indians"
+            ]
+        },
+        {
+            "card_no": 404,
+            "card_title": "",
+            "player_names": [
+                "Ted Sizemore"
+            ],
+            "player_teams": [
+                "St. Louis Cardinals"
+            ]
+        },
+        {
+            "card_no": 405,
+            "card_title": "",
+            "player_names": [
+                "John Montague"
+            ],
+            "player_teams": [
+                "Montreal Expos"
+            ]
+        },
+        {
+            "card_no": 406,
+            "card_title": "",
+            "player_names": [
+                "Bob Gallagher"
+            ],
+            "player_teams": [
+                "New York Mets"
+            ]
+        },
+        {
+            "card_no": 407,
+            "card_title": "",
+            "player_names": [
+                "Herb Washington"
+            ],
+            "player_teams": [
+                "Oakland Athletics"
+            ]
+        },
+        {
+            "card_no": 408,
+            "card_title": "",
+            "player_names": [
+                "Clyde Wright"
+            ],
+            "player_teams": [
+                "Milwaukee Brewers"
+            ]
+        },
+        {
+            "card_no": 409,
+            "card_title": "",
+            "player_names": [
+                "Bob Robertson"
+            ],
+            "player_teams": [
+                "Pittsburgh Pirates"
+            ]
+        },
+        {
+            "card_no": 410,
+            "card_title": "",
+            "player_names": [
+                "Mike Cuellar"
+            ],
+            "player_teams": [
+                "Baltimore Orioles"
+            ]
+        },
+        {
+            "card_no": 411,
+            "card_title": "",
+            "player_names": [
+                "George Mitterwald"
+            ],
+            "player_teams": [
+                "Chicago Cubs"
+            ]
+        },
+        {
+            "card_no": 412,
+            "card_title": "",
+            "player_names": [
+                "Bill Hands"
+            ],
+            "player_teams": [
+                "Texas Rangers"
+            ]
+        },
+        {
+            "card_no": 413,
+            "card_title": "",
+            "player_names": [
+                "Marty Pattin"
+            ],
+            "player_teams": [
+                "Kansas City Royals"
+            ]
+        },
+        {
+            "card_no": 414,
+            "card_title": "",
+            "player_names": [
+                "Manny Mota"
+            ],
+            "player_teams": [
+                "Los Angeles Dodgers"
+            ]
+        },
+        {
+            "card_no": 415,
+            "card_title": "",
+            "player_names": [
+                "John Hiller"
+            ],
+            "player_teams": [
+                "Detroit Tigers"
+            ]
+        },
+        {
+            "card_no": 416,
+            "card_title": "",
+            "player_names": [
+                "Larry Lintz"
+            ],
+            "player_teams": [
+                "Montreal Expos"
+            ]
+        },
+        {
+            "card_no": 417,
+            "card_title": "",
+            "player_names": [
+                "Skip Lockwood"
+            ],
+            "player_teams": [
+                "California Angels"
+            ]
+        },
+        {
+            "card_no": 418,
+            "card_title": "",
+            "player_names": [
+                "Leo Foster"
+            ],
+            "player_teams": [
+                "Atlanta Braves"
+            ]
+        },
+        {
+            "card_no": 419,
+            "card_title": "",
+            "player_names": [
+                "Dave Goltz"
+            ],
+            "player_teams": [
+                "Minnesota Twins"
+            ]
+        },
+        {
+            "card_no": 420,
+            "card_title": "",
+            "player_names": [
+                "Larry Bowa"
+            ],
+            "player_teams": [
+                "Philadelphia Phillies"
+            ]
+        },
+        {
+            "card_no": 421,
+            "card_title": "New York Mets Team Checklist",
+            "player_names": [
+                ""
+            ],
+            "player_teams": [
+                "New York Mets"
+            ]
+        },
+        {
+            "card_no": 422,
+            "card_title": "",
+            "player_names": [
+                "Brian Downing"
+            ],
+            "player_teams": [
+                "Chicago White Sox"
+            ]
+        },
+        {
+            "card_no": 423,
+            "card_title": "",
+            "player_names": [
+                "Clay Kirby"
+            ],
+            "player_teams": [
+                "Cincinnati Reds"
+            ]
+        },
+        {
+            "card_no": 424,
+            "card_title": "",
+            "player_names": [
+                "John Lowenstein"
+            ],
+            "player_teams": [
+                "Cleveland Indians"
+            ]
+        },
+        {
+            "card_no": 425,
+            "card_title": "",
+            "player_names": [
+                "Tito Fuentes"
+            ],
+            "player_teams": [
+                "San Francisco Giants"
+            ]
+        },
+        {
+            "card_no": 426,
+            "card_title": "",
+            "player_names": [
+                "George Medich"
+            ],
+            "player_teams": [
+                "New York Yankees"
+            ]
+        },
+        {
+            "card_no": 427,
+            "card_title": "",
+            "player_names": [
+                "Clarence Gaston"
+            ],
+            "player_teams": [
+                "Atlanta Braves"
+            ]
+        },
+        {
+            "card_no": 428,
+            "card_title": "",
+            "player_names": [
+                "Dave Hamilton"
+            ],
+            "player_teams": [
+                "Oakland Athletics"
+            ]
+        },
+        {
+            "card_no": 429,
+            "card_title": "",
+            "player_names": [
+                "Jim Dwyer"
+            ],
+            "player_teams": [
+                "St. Louis Cardinals"
+            ]
+        },
+        {
+            "card_no": 430,
+            "card_title": "",
+            "player_names": [
+                "Luis Tiant"
+            ],
+            "player_teams": [
+                "Boston Red Sox"
+            ]
+        },
+        {
+            "card_no": 431,
+            "card_title": "",
+            "player_names": [
+                "Rod Gilbreath"
+            ],
+            "player_teams": [
+                "Atlanta Braves"
+            ]
+        },
+        {
+            "card_no": 432,
+            "card_title": "",
+            "player_names": [
+                "Ken Berry"
+            ],
+            "player_teams": [
+                "Milwaukee Brewers"
+            ]
+        },
+        {
+            "card_no": 433,
+            "card_title": "",
+            "player_names": [
+                "Larry Demery"
+            ],
+            "player_teams": [
+                "Pittsburgh Pirates"
+            ]
+        },
+        {
+            "card_no": 434,
+            "card_title": "",
+            "player_names": [
+                "Bob Locker"
+            ],
+            "player_teams": [
+                "Chicago Cubs"
+            ]
+        },
+        {
+            "card_no": 435,
+            "card_title": "",
+            "player_names": [
+                "Dave Nelson"
+            ],
+            "player_teams": [
+                "Texas Rangers"
+            ]
+        },
+        {
+            "card_no": 436,
+            "card_title": "",
+            "player_names": [
+                "Ken Frailing"
+            ],
+            "player_teams": [
+                "Chicago Cubs"
+            ]
+        },
+        {
+            "card_no": 437,
+            "card_title": "",
+            "player_names": [
+                "Al Cowens"
+            ],
+            "player_teams": [
+                "Kansas City Royals"
+            ]
+        },
+        {
+            "card_no": 438,
+            "card_title": "",
+            "player_names": [
+                "Don Carrithers"
+            ],
+            "player_teams": [
+                "Montreal Expos"
+            ]
+        },
+        {
+            "card_no": 439,
+            "card_title": "",
+            "player_names": [
+                "Ed Brinkman"
+            ],
+            "player_teams": [
+                "Detroit Tigers"
+            ]
+        },
+        {
+            "card_no": 440,
+            "card_title": "",
+            "player_names": [
+                "Andy Messersmith"
+            ],
+            "player_teams": [
+                "Los Angeles Dodgers"
+            ]
+        },
+        {
+            "card_no": 441,
+            "card_title": "",
+            "player_names": [
+                "Bobby Heise"
+            ],
+            "player_teams": [
+                "California Angels"
+            ]
+        },
+        {
+            "card_no": 442,
+            "card_title": "",
+            "player_names": [
+                "Maximino Leon"
+            ],
+            "player_teams": [
+                "Atlanta Braves"
+            ]
+        },
+        {
+            "card_no": 443,
+            "card_title": "Minnesota Twins Team Checklist",
+            "player_names": [
+                ""
+            ],
+            "player_teams": [
+                "Minnesota Twins"
+            ]
+        },
+        {
+            "card_no": 444,
+            "card_title": "",
+            "player_names": [
+                "Gene Garber"
+            ],
+            "player_teams": [
+                "Philadelphia Phillies"
+            ]
+        },
+        {
+            "card_no": 445,
+            "card_title": "",
+            "player_names": [
+                "Felix Millan"
+            ],
+            "player_teams": [
+                "New York Mets"
+            ]
+        },
+        {
+            "card_no": 446,
+            "card_title": "",
+            "player_names": [
+                "Bart Johnson"
+            ],
+            "player_teams": [
+                "Chicago White Sox"
+            ]
+        },
+        {
+            "card_no": 447,
+            "card_title": "",
+            "player_names": [
+                "Terry Crowley"
+            ],
+            "player_teams": [
+                "Cincinnati Reds"
+            ]
+        },
+        {
+            "card_no": 448,
+            "card_title": "",
+            "player_names": [
+                "Frank Duffy"
+            ],
+            "player_teams": [
+                "Cleveland Indians"
+            ]
+        },
+        {
+            "card_no": 449,
+            "card_title": "",
+            "player_names": [
+                "Charlie Williams"
+            ],
+            "player_teams": [
+                "San Francisco Giants"
+            ]
+        },
+        {
+            "card_no": 450,
+            "card_title": "",
+            "player_names": [
+                "Willie McCovey"
+            ],
+            "player_teams": [
+                "San Diego Padres"
+            ]
+        },
+        {
+            "card_no": 451,
+            "card_title": "",
+            "player_names": [
+                "Rick Dempsey"
+            ],
+            "player_teams": [
+                "New York Yankees"
+            ]
+        },
+        {
+            "card_no": 452,
+            "card_title": "",
+            "player_names": [
+                "Angel Mangual"
+            ],
+            "player_teams": [
+                "Oakland Athletics"
+            ]
+        },
+        {
+            "card_no": 453,
+            "card_title": "",
+            "player_names": [
+                "Claude Osteen"
+            ],
+            "player_teams": [
+                "St. Louis Cardinals"
+            ]
+        },
+        {
+            "card_no": 454,
+            "card_title": "",
+            "player_names": [
+                "Doug Griffin"
+            ],
+            "player_teams": [
+                "Boston Red Sox"
+            ]
+        },
+        {
+            "card_no": 455,
+            "card_title": "",
+            "player_names": [
+                "Don Wilson"
+            ],
+            "player_teams": [
+                "Houston Astros"
+            ]
+        },
+        {
+            "card_no": 456,
+            "card_title": "",
+            "player_names": [
+                "Bob Coluccio"
+            ],
+            "player_teams": [
+                "Milwaukee Brewers"
+            ]
+        },
+        {
+            "card_no": 457,
+            "card_title": "",
+            "player_names": [
+                "Mario Mendoza"
+            ],
+            "player_teams": [
+                "Pittsburgh Pirates"
+            ]
+        },
+        {
+            "card_no": 458,
+            "card_title": "",
+            "player_names": [
+                "Ross Grimsley"
+            ],
+            "player_teams": [
+                "Baltimore Orioles"
+            ]
+        },
+        {
+            "card_no": 459,
+            "card_title": "'74 A.L. Championships",
+            "player_names": [
+                "Dick Green",
+                "Brooks Robinson"
+            ],
+            "player_teams": [
+                "Oakland Athletics",
+                "Baltimore Orioles"
+            ]
+        },
+        {
+            "card_no": 460,
+            "card_title": "'74 N.L. Championships",
+            "player_names": [
+                "Steve Garvey",
+                "Frank Taveras"
+            ],
+            "player_teams": [
+                "Los Angeles Dodgers",
+                "Pittsburgh Pirates"
+            ]
+        },
+        {
+            "card_no": 461,
+            "card_title": "1974 World Series Game 1",
+            "player_names": [
+                "Reggie Jackson"
+            ],
+            "player_teams": [
+                "Oakland Athletics"
+            ]
+        },
+        {
+            "card_no": 462,
+            "card_title": "1974 World Series Game 2",
+            "player_names": [
+                "Joe Ferguson"
+            ],
+            "player_teams": [
+                "Los Angeles Dodgers"
+            ]
+        },
+        {
+            "card_no": 463,
+            "card_title": "1974 World Series Game 3",
+            "player_names": [
+                "Rollie Fingers"
+            ],
+            "player_teams": [
+                "Oakland Athletics"
+            ]
+        },
+        {
+            "card_no": 464,
+            "card_title": "1974 World Series Game 4",
+            "player_names": [
+                "Ken Holtzman",
+                "Steve Yeager"
+            ],
+            "player_teams": [
+                "Oakland Athletics",
+                "Los Angeles Dodgers"
+            ]
+        },
+        {
+            "card_no": 465,
+            "card_title": "1974 World Series Game 5",
+            "player_names": [
+                "Joe Rudi",
+                "Ron Cey"
+            ],
+            "player_teams": [
+                "Oakland Athletics",
+                "Los Angeles Dodgers"
+            ]
+        },
+        {
+            "card_no": 466,
+            "card_title": "A's Do It Again!",
+            "player_names": [
+                "Rollie Fingers",
+                "Reggie Jackson"
+            ],
+            "player_teams": [
+                "Oakland Athletics",
+                "Oakland Athletics"
+            ]
+        },
+        {
+            "card_no": 467,
+            "card_title": "",
+            "player_names": [
+                "Ed Halicki"
+            ],
+            "player_teams": [
+                "San Francisco Giants"
+            ]
+        },
+        {
+            "card_no": 468,
+            "card_title": "",
+            "player_names": [
+                "Bobby Mitchell"
+            ],
+            "player_teams": [
+                "Milwaukee Brewers"
+            ]
+        },
+        {
+            "card_no": 469,
+            "card_title": "",
+            "player_names": [
+                "Tom Dettore"
+            ],
+            "player_teams": [
+                "Chicago Cubs"
+            ]
+        },
+        {
+            "card_no": 470,
+            "card_title": "",
+            "player_names": [
+                "Jeff Burroughs"
+            ],
+            "player_teams": [
+                "Texas Rangers"
+            ]
+        },
+        {
+            "card_no": 471,
+            "card_title": "",
+            "player_names": [
+                "Bob Stinson"
+            ],
+            "player_teams": [
+                "Montreal Expos"
+            ]
+        },
+        {
+            "card_no": 472,
+            "card_title": "",
+            "player_names": [
+                "Bruce Dal Canton"
+            ],
+            "player_teams": [
+                "Kansas City Royals"
+            ]
+        },
+        {
+            "card_no": 473,
+            "card_title": "",
+            "player_names": [
+                "Ken McMullen"
+            ],
+            "player_teams": [
+                "Los Angeles Dodgers"
+            ]
+        },
+        {
+            "card_no": 474,
+            "card_title": "",
+            "player_names": [
+                "Luke Walker"
+            ],
+            "player_teams": [
+                "Detroit Tigers"
+            ]
+        },
+        {
+            "card_no": 475,
+            "card_title": "",
+            "player_names": [
+                "Darrell Evans"
+            ],
+            "player_teams": [
+                "Atlanta Braves"
+            ]
+        },
+        {
+            "card_no": 476,
+            "card_title": "",
+            "player_names": [
+                "Ed Figueroa"
+            ],
+            "player_teams": [
+                "California Angels"
+            ]
+        },
+        {
+            "card_no": 477,
+            "card_title": "",
+            "player_names": [
+                "Tom Hutton"
+            ],
+            "player_teams": [
+                "Philadelphia Phillies"
+            ]
+        },
+        {
+            "card_no": 478,
+            "card_title": "",
+            "player_names": [
+                "Tom Burgmeier"
+            ],
+            "player_teams": [
+                "Minnesota Twins"
+            ]
+        },
+        {
+            "card_no": 479,
+            "card_title": "",
+            "player_names": [
+                "Ken Boswell"
+            ],
+            "player_teams": [
+                "Houston Astros"
+            ]
+        },
+        {
+            "card_no": 480,
+            "card_title": "",
+            "player_names": [
+                "Carlos May"
+            ],
+            "player_teams": [
+                "Chicago White Sox"
+            ]
+        },
+        {
+            "card_no": 481,
+            "card_title": "",
+            "player_names": [
+                "Will McEnaney"
+            ],
+            "player_teams": [
+                "Cincinnati Reds"
+            ]
+        },
+        {
+            "card_no": 482,
+            "card_title": "",
+            "player_names": [
+                "Tom McCraw"
+            ],
+            "player_teams": [
+                "Cleveland Indians"
+            ]
+        },
+        {
+            "card_no": 483,
+            "card_title": "",
+            "player_names": [
+                "Steve Ontiveros"
+            ],
+            "player_teams": [
+                "San Francisco Giants"
+            ]
+        },
+        {
+            "card_no": 484,
+            "card_title": "",
+            "player_names": [
+                "Glenn Beckert"
+            ],
+            "player_teams": [
+                "San Diego Padres"
+            ]
+        },
+        {
+            "card_no": 485,
+            "card_title": "",
+            "player_names": [
+                "Sparky Lyle"
+            ],
+            "player_teams": [
+                "New York Yankees"
+            ]
+        },
+        {
+            "card_no": 486,
+            "card_title": "",
+            "player_names": [
+                "Ray Fosse"
+            ],
+            "player_teams": [
+                "Oakland Athletics"
+            ]
+        },
+        {
+            "card_no": 487,
+            "card_title": "Houston Astros Team Checklist",
+            "player_names": [
+                ""
+            ],
+            "player_teams": [
+                "Houston Astros"
+            ]
+        },
+        {
+            "card_no": 488,
+            "card_title": "",
+            "player_names": [
+                "Bill Travers"
+            ],
+            "player_teams": [
+                "Milwaukee Brewers"
+            ]
+        },
+        {
+            "card_no": 489,
+            "card_title": "",
+            "player_names": [
+                "Cecil Cooper"
+            ],
+            "player_teams": [
+                "Boston Red Sox"
+            ]
+        },
+        {
+            "card_no": 490,
+            "card_title": "",
+            "player_names": [
+                "Reggie Smith"
+            ],
+            "player_teams": [
+                "St. Louis Cardinals"
+            ]
+        },
+        {
+            "card_no": 491,
+            "card_title": "",
+            "player_names": [
+                "Doyle Alexander"
+            ],
+            "player_teams": [
+                "Baltimore Orioles"
+            ]
+        },
+        {
+            "card_no": 492,
+            "card_title": "",
+            "player_names": [
+                "Rich Hebner"
+            ],
+            "player_teams": [
+                "Pittsburgh Pirates"
+            ]
+        },
+        {
+            "card_no": 493,
+            "card_title": "",
+            "player_names": [
+                "Don Stanhouse"
+            ],
+            "player_teams": [
+                "Texas Rangers"
+            ]
+        },
+        {
+            "card_no": 494,
+            "card_title": "",
+            "player_names": [
+                "Pete LaCock"
+            ],
+            "player_teams": [
+                "Chicago Cubs"
+            ]
+        },
+        {
+            "card_no": 495,
+            "card_title": "",
+            "player_names": [
+                "Nelson Briles"
+            ],
+            "player_teams": [
+                "Kansas City Royals"
+            ]
+        },
+        {
+            "card_no": 496,
+            "card_title": "",
+            "player_names": [
+                "Pepe Frias"
+            ],
+            "player_teams": [
+                "Montreal Expos"
+            ]
+        },
+        {
+            "card_no": 497,
+            "card_title": "",
+            "player_names": [
+                "Jim Nettles"
+            ],
+            "player_teams": [
+                "Detroit Tigers"
+            ]
+        },
+        {
+            "card_no": 498,
+            "card_title": "",
+            "player_names": [
+                "Al Downing"
+            ],
+            "player_teams": [
+                "Los Angeles Dodgers"
+            ]
+        },
+        {
+            "card_no": 499,
+            "card_title": "",
+            "player_names": [
+                "Marty Perez"
+            ],
+            "player_teams": [
+                "Atlanta Braves"
+            ]
+        },
+        {
+            "card_no": 500,
+            "card_title": "",
+            "player_names": [
+                "Nolan Ryan"
+            ],
+            "player_teams": [
+                "California Angels"
+            ]
+        },
+        {
+            "card_no": 501,
+            "card_title": "",
+            "player_names": [
+                "Bill Robinson"
+            ],
+            "player_teams": [
+                "Philadelphia Phillies"
+            ]
+        },
+        {
+            "card_no": 502,
+            "card_title": "",
+            "player_names": [
+                "Pat Bourque"
+            ],
+            "player_teams": [
+                "Oakland Athletics"
+            ]
+        },
+        {
+            "card_no": 503,
+            "card_title": "",
+            "player_names": [
+                "Fred Stanley"
+            ],
+            "player_teams": [
+                "New York Yankees"
+            ]
+        },
+        {
+            "card_no": 504,
+            "card_title": "",
+            "player_names": [
+                "Buddy Bradford"
+            ],
+            "player_teams": [
+                "Chicago White Sox"
+            ]
+        },
+        {
+            "card_no": 505,
+            "card_title": "",
+            "player_names": [
+                "Chris Speier"
+            ],
+            "player_teams": [
+                "San Francisco Giants"
+            ]
+        },
+        {
+            "card_no": 506,
+            "card_title": "",
+            "player_names": [
+                "Leron Lee"
+            ],
+            "player_teams": [
+                "Cleveland Indians"
+            ]
+        },
+        {
+            "card_no": 507,
+            "card_title": "",
+            "player_names": [
+                "Tom Carroll"
+            ],
+            "player_teams": [
+                "Cincinnati Reds"
+            ]
+        },
+        {
+            "card_no": 508,
+            "card_title": "",
+            "player_names": [
+                "Bob Hansen"
+            ],
+            "player_teams": [
+                "Milwaukee Brewers"
+            ]
+        },
+        {
+            "card_no": 509,
+            "card_title": "",
+            "player_names": [
+                "Dave Hilton"
+            ],
+            "player_teams": [
+                "San Diego Padres"
+            ]
+        },
+        {
+            "card_no": 510,
+            "card_title": "",
+            "player_names": [
+                "Vida Blue"
+            ],
+            "player_teams": [
+                "Oakland Athletics"
+            ]
+        },
+        {
+            "card_no": 511,
+            "card_title": "Texas Rangers Team Checklist",
+            "player_names": [
+                ""
+            ],
+            "player_teams": [
+                "Texas Rangers"
+            ]
+        },
+        {
+            "card_no": 512,
+            "card_title": "",
+            "player_names": [
+                "Larry Milbourne"
+            ],
+            "player_teams": [
+                "Houston Astros"
+            ]
+        },
+        {
+            "card_no": 513,
+            "card_title": "",
+            "player_names": [
+                "Dick Pole"
+            ],
+            "player_teams": [
+                "Boston Red Sox"
+            ]
+        },
+        {
+            "card_no": 514,
+            "card_title": "",
+            "player_names": [
+                "Jose Cruz"
+            ],
+            "player_teams": [
+                "Houston Astros"
+            ]
+        },
+        {
+            "card_no": 515,
+            "card_title": "",
+            "player_names": [
+                "Manny Sanguillen"
+            ],
+            "player_teams": [
+                "Pittsburgh Pirates"
+            ]
+        },
+        {
+            "card_no": 516,
+            "card_title": "",
+            "player_names": [
+                "Don Hood"
+            ],
+            "player_teams": [
+                "Baltimore Orioles"
+            ]
+        },
+        {
+            "card_no": 517,
+            "card_title": "Checklist (#397-528)",
+            "player_names": [
+                ""
+            ],
+            "player_teams": [
+                ""
+            ]
+        },
+        {
+            "card_no": 518,
+            "card_title": "",
+            "player_names": [
+                "Leo Cardenas"
+            ],
+            "player_teams": [
+                "Texas Rangers"
+            ]
+        },
+        {
+            "card_no": 519,
+            "card_title": "",
+            "player_names": [
+                "Jim Todd"
+            ],
+            "player_teams": [
+                "Chicago Cubs"
+            ]
+        },
+        {
+            "card_no": 520,
+            "card_title": "",
+            "player_names": [
+                "Amos Otis"
+            ],
+            "player_teams": [
+                "Kansas City Royals"
+            ]
+        },
+        {
+            "card_no": 521,
+            "card_title": "",
+            "player_names": [
+                "Dennis Blair"
+            ],
+            "player_teams": [
+                "Montreal Expos"
+            ]
+        },
+        {
+            "card_no": 522,
+            "card_title": "",
+            "player_names": [
+                "Gary Sutherland"
+            ],
+            "player_teams": [
+                "Detroit Tigers"
+            ]
+        },
+        {
+            "card_no": 523,
+            "card_title": "",
+            "player_names": [
+                "Tom Paciorek"
+            ],
+            "player_teams": [
+                "Los Angeles Dodgers"
+            ]
+        },
+        {
+            "card_no": 524,
+            "card_title": "",
+            "player_names": [
+                "John Doherty"
+            ],
+            "player_teams": [
+                "California Angels"
+            ]
+        },
+        {
+            "card_no": 525,
+            "card_title": "",
+            "player_names": [
+                "Tom House"
+            ],
+            "player_teams": [
+                "Atlanta Braves"
+            ]
+        },
+        {
+            "card_no": 526,
+            "card_title": "",
+            "player_names": [
+                "Larry Hisle"
+            ],
+            "player_teams": [
+                "Minnesota Twins"
+            ]
+        },
+        {
+            "card_no": 527,
+            "card_title": "",
+            "player_names": [
+                "Mac Scarce"
+            ],
+            "player_teams": [
+                "Philadelphia Phillies"
+            ]
+        },
+        {
+            "card_no": 528,
+            "card_title": "",
+            "player_names": [
+                "Eddie Leon"
+            ],
+            "player_teams": [
+                "Chicago White Sox"
+            ]
+        },
+        {
+            "card_no": 529,
+            "card_title": "",
+            "player_names": [
+                "Gary Thomasson"
+            ],
+            "player_teams": [
+                "San Francisco Giants"
+            ]
+        },
+        {
+            "card_no": 530,
+            "card_title": "",
+            "player_names": [
+                "Gaylord Perry"
+            ],
+            "player_teams": [
+                "Cleveland Indians"
+            ]
+        },
+        {
+            "card_no": 531,
+            "card_title": "Cincinnati Reds Team Checklist",
+            "player_names": [
+                ""
+            ],
+            "player_teams": [
+                "Cincinnati Reds"
+            ]
+        },
+        {
+            "card_no": 532,
+            "card_title": "",
+            "player_names": [
+                "Gorman Thomas"
+            ],
+            "player_teams": [
+                "Milwaukee Brewers"
+            ]
+        },
+        {
+            "card_no": 533,
+            "card_title": "",
+            "player_names": [
+                "Rudy Meoli"
+            ],
+            "player_teams": [
+                "California Angels"
+            ]
+        },
+        {
+            "card_no": 534,
+            "card_title": "",
+            "player_names": [
+                "Alex Johnson"
+            ],
+            "player_teams": [
+                "New York Yankees"
+            ]
+        },
+        {
+            "card_no": 535,
+            "card_title": "",
+            "player_names": [
+                "Gene Tenace"
+            ],
+            "player_teams": [
+                "Oakland Athletics"
+            ]
+        },
+        {
+            "card_no": 536,
+            "card_title": "",
+            "player_names": [
+                "Bob Moose"
+            ],
+            "player_teams": [
+                "Pittsburgh Pirates"
+            ]
+        },
+        {
+            "card_no": 537,
+            "card_title": "",
+            "player_names": [
+                "Tommy Harper"
+            ],
+            "player_teams": [
+                "Boston Red Sox"
+            ]
+        },
+        {
+            "card_no": 538,
+            "card_title": "",
+            "player_names": [
+                "Duffy Dyer"
+            ],
+            "player_teams": [
+                "Pittsburgh Pirates"
+            ]
+        },
+        {
+            "card_no": 539,
+            "card_title": "",
+            "player_names": [
+                "Jesse Jefferson"
+            ],
+            "player_teams": [
+                "Baltimore Orioles"
+            ]
+        },
+        {
+            "card_no": 540,
+            "card_title": "",
+            "player_names": [
+                "Lou Brock"
+            ],
+            "player_teams": [
+                "St. Louis Cardinals"
+            ]
+        },
+        {
+            "card_no": 541,
+            "card_title": "",
+            "player_names": [
+                "Roger Metzger"
+            ],
+            "player_teams": [
+                "Houston Astros"
+            ]
+        },
+        {
+            "card_no": 542,
+            "card_title": "",
+            "player_names": [
+                "Pete Broberg"
+            ],
+            "player_teams": [
+                "Texas Rangers"
+            ]
+        },
+        {
+            "card_no": 543,
+            "card_title": "",
+            "player_names": [
+                "Larry Biittner"
+            ],
+            "player_teams": [
+                "Montreal Expos"
+            ]
+        },
+        {
+            "card_no": 544,
+            "card_title": "",
+            "player_names": [
+                "Steve Mingori"
+            ],
+            "player_teams": [
+                "Kansas City Royals"
+            ]
+        },
+        {
+            "card_no": 545,
+            "card_title": "",
+            "player_names": [
+                "Billy Williams"
+            ],
+            "player_teams": [
+                "Oakland Athletics"
+            ]
+        },
+        {
+            "card_no": 546,
+            "card_title": "",
+            "player_names": [
+                "John Knox"
+            ],
+            "player_teams": [
+                "Detroit Tigers"
+            ]
+        },
+        {
+            "card_no": 547,
+            "card_title": "",
+            "player_names": [
+                "Von Joshua"
+            ],
+            "player_teams": [
+                "Los Angeles Dodgers"
+            ]
+        },
+        {
+            "card_no": 548,
+            "card_title": "",
+            "player_names": [
+                "Charlie Sands"
+            ],
+            "player_teams": [
+                "California Angels"
+            ]
+        },
+        {
+            "card_no": 549,
+            "card_title": "",
+            "player_names": [
+                "Bill Butler"
+            ],
+            "player_teams": [
+                "Minnesota Twins"
+            ]
+        },
+        {
+            "card_no": 550,
+            "card_title": "",
+            "player_names": [
+                "Ralph Garr"
+            ],
+            "player_teams": [
+                "Atlanta Braves"
+            ]
+        },
+        {
+            "card_no": 551,
+            "card_title": "",
+            "player_names": [
+                "Larry Christenson"
+            ],
+            "player_teams": [
+                "Philadelphia Phillies"
+            ]
+        },
+        {
+            "card_no": 552,
+            "card_title": "",
+            "player_names": [
+                "Jack Brohamer"
+            ],
+            "player_teams": [
+                "Cleveland Indians"
+            ]
+        },
+        {
+            "card_no": 553,
+            "card_title": "",
+            "player_names": [
+                "John Boccabella"
+            ],
+            "player_teams": [
+                "San Francisco Giants"
+            ]
+        },
+        {
+            "card_no": 554,
+            "card_title": "",
+            "player_names": [
+                "Rich Gossage"
+            ],
+            "player_teams": [
+                "Chicago White Sox"
+            ]
+        },
+        {
+            "card_no": 555,
+            "card_title": "",
+            "player_names": [
+                "Al Oliver"
+            ],
+            "player_teams": [
+                "Pittsburgh Pirates"
+            ]
+        },
+        {
+            "card_no": 556,
+            "card_title": "",
+            "player_names": [
+                "Tim Johnson"
+            ],
+            "player_teams": [
+                "Milwaukee Brewers"
+            ]
+        },
+        {
+            "card_no": 557,
+            "card_title": "",
+            "player_names": [
+                "Larry Gura"
+            ],
+            "player_teams": [
+                "New York Yankees"
+            ]
+        },
+        {
+            "card_no": 558,
+            "card_title": "",
+            "player_names": [
+                "Dave Roberts"
+            ],
+            "player_teams": [
+                "San Diego Padres"
+            ]
+        },
+        {
+            "card_no": 559,
+            "card_title": "",
+            "player_names": [
+                "Bob Montgomery"
+            ],
+            "player_teams": [
+                "Boston Red Sox"
+            ]
+        },
+        {
+            "card_no": 560,
+            "card_title": "",
+            "player_names": [
+                "Tony Perez"
+            ],
+            "player_teams": [
+                "Cincinnati Reds"
+            ]
+        },
+        {
+            "card_no": 561,
+            "card_title": "Oakland A's Team Checklist",
+            "player_names": [
+                ""
+            ],
+            "player_teams": [
+                "Oakland Athletics"
+            ]
+        },
+        {
+            "card_no": 562,
+            "card_title": "",
+            "player_names": [
+                "Gary Nolan"
+            ],
+            "player_teams": [
+                "Cincinnati Reds"
+            ]
+        },
+        {
+            "card_no": 563,
+            "card_title": "",
+            "player_names": [
+                "Wilbur Howard"
+            ],
+            "player_teams": [
+                "Houston Astros"
+            ]
+        },
+        {
+            "card_no": 564,
+            "card_title": "",
+            "player_names": [
+                "Tommy Davis"
+            ],
+            "player_teams": [
+                "Baltimore Orioles"
+            ]
+        },
+        {
+            "card_no": 565,
+            "card_title": "",
+            "player_names": [
+                "Joe Torre"
+            ],
+            "player_teams": [
+                "New York Mets"
+            ]
+        },
+        {
+            "card_no": 566,
+            "card_title": "",
+            "player_names": [
+                "Ray Burris"
+            ],
+            "player_teams": [
+                "Chicago Cubs"
+            ]
+        },
+        {
+            "card_no": 567,
+            "card_title": "",
+            "player_names": [
+                "Jim Sundberg"
+            ],
+            "player_teams": [
+                "Texas Rangers"
+            ]
+        },
+        {
+            "card_no": 568,
+            "card_title": "",
+            "player_names": [
+                "Dale Murray"
+            ],
+            "player_teams": [
+                "Montreal Expos"
+            ]
+        },
+        {
+            "card_no": 569,
+            "card_title": "",
+            "player_names": [
+                "Frank White"
+            ],
+            "player_teams": [
+                "Kansas City Royals"
+            ]
+        },
+        {
+            "card_no": 570,
+            "card_title": "",
+            "player_names": [
+                "Jim Wynn"
+            ],
+            "player_teams": [
+                "Los Angeles Dodgers"
+            ]
+        },
+        {
+            "card_no": 571,
+            "card_title": "",
+            "player_names": [
+                "Dave Lemanczyk"
+            ],
+            "player_teams": [
+                "Detroit Tigers"
+            ]
+        },
+        {
+            "card_no": 572,
+            "card_title": "",
+            "player_names": [
+                "Roger Nelson"
+            ],
+            "player_teams": [
+                "Chicago White Sox"
+            ]
+        },
+        {
+            "card_no": 573,
+            "card_title": "",
+            "player_names": [
+                "Orlando Pena"
+            ],
+            "player_teams": [
+                "California Angels"
+            ]
+        },
+        {
+            "card_no": 574,
+            "card_title": "",
+            "player_names": [
+                "Tony Taylor"
+            ],
+            "player_teams": [
+                "Philadelphia Phillies"
+            ]
+        },
+        {
+            "card_no": 575,
+            "card_title": "",
+            "player_names": [
+                "Gene Clines"
+            ],
+            "player_teams": [
+                "New York Mets"
+            ]
+        },
+        {
+            "card_no": 576,
+            "card_title": "",
+            "player_names": [
+                "Phil Roof"
+            ],
+            "player_teams": [
+                "Minnesota Twins"
+            ]
+        },
+        {
+            "card_no": 577,
+            "card_title": "",
+            "player_names": [
+                "John Morris"
+            ],
+            "player_teams": [
+                "San Francisco Giants"
+            ]
+        },
+        {
+            "card_no": 578,
+            "card_title": "",
+            "player_names": [
+                "Dave Tomlin"
+            ],
+            "player_teams": [
+                "San Diego Padres"
+            ]
+        },
+        {
+            "card_no": 579,
+            "card_title": "",
+            "player_names": [
+                "Skip Pitlock"
+            ],
+            "player_teams": [
+                "Chicago White Sox"
+            ]
+        },
+        {
+            "card_no": 580,
+            "card_title": "",
+            "player_names": [
+                "Frank Robinson"
+            ],
+            "player_teams": [
+                "Cleveland Indians"
+            ]
+        },
+        {
+            "card_no": 581,
+            "card_title": "",
+            "player_names": [
+                "Darrel Chaney"
+            ],
+            "player_teams": [
+                "Cincinnati Reds"
+            ]
+        },
+        {
+            "card_no": 582,
+            "card_title": "",
+            "player_names": [
+                "Eduardo Rodriguez"
+            ],
+            "player_teams": [
+                "Milwaukee Brewers"
+            ]
+        },
+        {
+            "card_no": 583,
+            "card_title": "",
+            "player_names": [
+                "Andy Etchebarren"
+            ],
+            "player_teams": [
+                "Baltimore Orioles"
+            ]
+        },
+        {
+            "card_no": 584,
+            "card_title": "",
+            "player_names": [
+                "Mike Garman"
+            ],
+            "player_teams": [
+                "St. Louis Cardinals"
+            ]
+        },
+        {
+            "card_no": 585,
+            "card_title": "",
+            "player_names": [
+                "Chris Chambliss"
+            ],
+            "player_teams": [
+                "New York Yankees"
+            ]
+        },
+        {
+            "card_no": 586,
+            "card_title": "",
+            "player_names": [
+                "Tim McCarver"
+            ],
+            "player_teams": [
+                "Boston Red Sox"
+            ]
+        },
+        {
+            "card_no": 587,
+            "card_title": "",
+            "player_names": [
+                "Chris Ward"
+            ],
+            "player_teams": [
+                "Chicago Cubs"
+            ]
+        },
+        {
+            "card_no": 588,
+            "card_title": "",
+            "player_names": [
+                "Rick Auerbach"
+            ],
+            "player_teams": [
+                "Los Angeles Dodgers"
+            ]
+        },
+        {
+            "card_no": 589,
+            "card_title": "Atlanta Braves Team Checklist",
+            "player_names": [
+                ""
+            ],
+            "player_teams": [
+                "Atlanta Braves"
+            ]
+        },
+        {
+            "card_no": 590,
+            "card_title": "",
+            "player_names": [
+                "Cesar Cedeno"
+            ],
+            "player_teams": [
+                "Houston Astros"
+            ]
+        },
+        {
+            "card_no": 591,
+            "card_title": "",
+            "player_names": [
+                "Glenn Abbott"
+            ],
+            "player_teams": [
+                "Oakland Athletics"
+            ]
+        },
+        {
+            "card_no": 592,
+            "card_title": "",
+            "player_names": [
+                "Balor Moore"
+            ],
+            "player_teams": [
+                "Montreal Expos"
+            ]
+        },
+        {
+            "card_no": 593,
+            "card_title": "",
+            "player_names": [
+                "Gene Lamont"
+            ],
+            "player_teams": [
+                "Detroit Tigers"
+            ]
+        },
+        {
+            "card_no": 594,
+            "card_title": "",
+            "player_names": [
+                "Jim Fuller"
+            ],
+            "player_teams": [
+                "Baltimore Orioles"
+            ]
+        },
+        {
+            "card_no": 595,
+            "card_title": "",
+            "player_names": [
+                "Joe Niekro"
+            ],
+            "player_teams": [
+                "Atlanta Braves"
+            ]
+        },
+        {
+            "card_no": 596,
+            "card_title": "",
+            "player_names": [
+                "Ollie Brown"
+            ],
+            "player_teams": [
+                "Philadelphia Phillies"
+            ]
+        },
+        {
+            "card_no": 597,
+            "card_title": "",
+            "player_names": [
+                "Winston Llenas"
+            ],
+            "player_teams": [
+                "California Angels"
+            ]
+        },
+        {
+            "card_no": 598,
+            "card_title": "",
+            "player_names": [
+                "Bruce Kison"
+            ],
+            "player_teams": [
+                "Pittsburgh Pirates"
+            ]
+        },
+        {
+            "card_no": 599,
+            "card_title": "",
+            "player_names": [
+                "Nate Colbert"
+            ],
+            "player_teams": [
+                "Detroit Tigers"
+            ]
+        },
+        {
+            "card_no": 600,
+            "card_title": "",
+            "player_names": [
+                "Rod Carew"
+            ],
+            "player_teams": [
+                "Minnesota Twins"
+            ]
+        },
+        {
+            "card_no": 601,
+            "card_title": "",
+            "player_names": [
+                "Juan Beniquez"
+            ],
+            "player_teams": [
+                "Boston Red Sox"
+            ]
+        },
+        {
+            "card_no": 602,
+            "card_title": "",
+            "player_names": [
+                "John Vukovich"
+            ],
+            "player_teams": [
+                "Cincinnati Reds"
+            ]
+        },
+        {
+            "card_no": 603,
+            "card_title": "",
+            "player_names": [
+                "Lew Krausse"
+            ],
+            "player_teams": [
+                "Atlanta Braves"
+            ]
+        },
+        {
+            "card_no": 604,
+            "card_title": "",
+            "player_names": [
+                "Oscar Zamora"
+            ],
+            "player_teams": [
+                "Chicago Cubs"
+            ]
+        },
+        {
+            "card_no": 605,
+            "card_title": "",
+            "player_names": [
+                "John Ellis"
+            ],
+            "player_teams": [
+                "Cleveland Indians"
+            ]
+        },
+        {
+            "card_no": 606,
+            "card_title": "",
+            "player_names": [
+                "Bruce Miller"
+            ],
+            "player_teams": [
+                "San Francisco Giants"
+            ]
+        },
+        {
+            "card_no": 607,
+            "card_title": "",
+            "player_names": [
+                "Jim Holt"
+            ],
+            "player_teams": [
+                "Oakland Athletics"
+            ]
+        },
+        {
+            "card_no": 608,
+            "card_title": "",
+            "player_names": [
+                "Gene Michael"
+            ],
+            "player_teams": [
+                "New York Yankees"
+            ]
+        },
+        {
+            "card_no": 609,
+            "card_title": "",
+            "player_names": [
+                "Ellie Hendricks"
+            ],
+            "player_teams": [
+                "Baltimore Orioles"
+            ]
+        },
+        {
+            "card_no": 610,
+            "card_title": "",
+            "player_names": [
+                "Ron Hunt"
+            ],
+            "player_teams": [
+                "St. Louis Cardinals"
+            ]
+        },
+        {
+            "card_no": 611,
+            "card_title": "New York Yankees Team Checklist",
+            "player_names": [
+                ""
+            ],
+            "player_teams": [
+                "New York Yankees"
+            ]
+        },
+        {
+            "card_no": 612,
+            "card_title": "",
+            "player_names": [
+                "Terry Hughes"
+            ],
+            "player_teams": [
+                "Boston Red Sox"
+            ]
+        },
+        {
+            "card_no": 613,
+            "card_title": "",
+            "player_names": [
+                "Bill Parsons"
+            ],
+            "player_teams": [
+                "Oakland Athletics"
+            ]
+        },
+        {
+            "card_no": 614,
+            "card_title": "Rookie Pitchers",
+            "player_names": [
+                "Jack Kucek",
+                "Dyar Miller",
+                "Vern Ruhle",
+                "Paul Siebert)"
+            ],
+            "player_teams": [
+                ""
+            ]
+        },
+        {
+            "card_no": 615,
+            "card_title": "Rookie Pitchers",
+            "player_names": [
+                "Pat Darcy",
+                "Dennis Leonard",
+                "Tom Underwood",
+                "Hank Webb"
+            ],
+            "player_teams": [
+                ""
+            ]
+        },
+        {
+            "card_no": 616,
+            "card_title": "Rookie Outfielders",
+            "player_names": [
+                "Dave Augustine",
+                "Pepe Mangual",
+                "Jim Rice",
+                "John Scott"
+            ],
+            "player_teams": [
+                ""
+            ]
+        },
+        {
+            "card_no": 617,
+            "card_title": "Rookie Infielders",
+            "player_names": [
+                "Mike Cubbage",
+                "Doug DeCinces",
+                "Reggie Sanders",
+                "Manny Trillo"
+            ],
+            "player_teams": [
+                ""
+            ]
+        },
+        {
+            "card_no": 618,
+            "card_title": "Rookie Pitchers",
+            "player_names": [
+                "Jamie Easterly",
+                "Tom Johnson",
+                "Scott McGregor",
+                "Rick Rhoden"
+            ],
+            "player_teams": [
+                ""
+            ]
+        },
+        {
+            "card_no": 619,
+            "card_title": "Rookie Outfielders",
+            "player_names": [
+                "Benny Ayala",
+                "Nyls Nyman",
+                "Tommy Smith",
+                "Jerry Turner"
+            ],
+            "player_teams": [
+                ""
+            ]
+        },
+        {
+            "card_no": 620,
+            "card_title": "Rookie Catchers-Outfielders",
+            "player_names": [
+                "Gary Carter",
+                "Marc Hill",
+                "Danny Meyer",
+                "Leon Roberts"
+            ],
+            "player_teams": [
+                ""
+            ]
+        },
+        {
+            "card_no": 621,
+            "card_title": "Rookie Pitchers",
+            "player_names": [
+                "John Denny",
+                "Rawly Eastwick",
+                "Jim Kern",
+                "Juan Veintidos"
+            ],
+            "player_teams": [
+                ""
+            ]
+        },
+        {
+            "card_no": 622,
+            "card_title": "Rookie Outfielders",
+            "player_names": [
+                "Ed Armbrister",
+                "Fred Lynn",
+                "Tom Poquette",
+                "Terry Whitfield"
+            ],
+            "player_teams": [
+                ""
+            ]
+        },
+        {
+            "card_no": 623,
+            "card_title": "Rookie Infielders",
+            "player_names": [
+                "Phil Garner",
+                "Keith Hernandez",
+                "Bob Sheldon",
+                "Tom Veryzer"
+            ],
+            "player_teams": [
+                ""
+            ]
+        },
+        {
+            "card_no": 624,
+            "card_title": "Rookie Pitchers",
+            "player_names": [
+                "Doug Konieczny",
+                "Gary Lavelle",
+                "Jim Otten",
+                "Eddie Solomon"
+            ],
+            "player_teams": [
+                ""
+            ]
+        },
+        {
+            "card_no": 625,
+            "card_title": "",
+            "player_names": [
+                "Boog Powell"
+            ],
+            "player_teams": [
+                "Baltimore Orioles"
+            ]
+        },
+        {
+            "card_no": 626,
+            "card_title": "",
+            "player_names": [
+                "Larry Haney"
+            ],
+            "player_teams": [
+                "Oakland Athletics"
+            ]
+        },
+        {
+            "card_no": 627,
+            "card_title": "",
+            "player_names": [
+                "Tom Walker"
+            ],
+            "player_teams": [
+                "Montreal Expos"
+            ]
+        },
+        {
+            "card_no": 628,
+            "card_title": "",
+            "player_names": [
+                "Ron LeFlore"
+            ],
+            "player_teams": [
+                "Detroit Tigers"
+            ]
+        },
+        {
+            "card_no": 629,
+            "card_title": "",
+            "player_names": [
+                "Joe Hoerner"
+            ],
+            "player_teams": [
+                "Kansas City Royals"
+            ]
+        },
+        {
+            "card_no": 630,
+            "card_title": "",
+            "player_names": [
+                "Greg Luzinski"
+            ],
+            "player_teams": [
+                "Philadelphia Phillies"
+            ]
+        },
+        {
+            "card_no": 631,
+            "card_title": "",
+            "player_names": [
+                "Lee Lacy"
+            ],
+            "player_teams": [
+                "Los Angeles Dodgers"
+            ]
+        },
+        {
+            "card_no": 632,
+            "card_title": "",
+            "player_names": [
+                "Morris Nettles"
+            ],
+            "player_teams": [
+                "California Angels"
+            ]
+        },
+        {
+            "card_no": 633,
+            "card_title": "",
+            "player_names": [
+                "Paul Casanova"
+            ],
+            "player_teams": [
+                "Atlanta Braves"
+            ]
+        },
+        {
+            "card_no": 634,
+            "card_title": "",
+            "player_names": [
+                "Cy Acosta"
+            ],
+            "player_teams": [
+                "Chicago White Sox"
+            ]
+        },
+        {
+            "card_no": 635,
+            "card_title": "",
+            "player_names": [
+                "Chuck Dobson"
+            ],
+            "player_teams": [
+                "California Angels"
+            ]
+        },
+        {
+            "card_no": 636,
+            "card_title": "",
+            "player_names": [
+                "Charlie Moore"
+            ],
+            "player_teams": [
+                "Milwaukee Brewers"
+            ]
+        },
+        {
+            "card_no": 637,
+            "card_title": "",
+            "player_names": [
+                "Ted Martinez"
+            ],
+            "player_teams": [
+                "New York Mets"
+            ]
+        },
+        {
+            "card_no": 638,
+            "card_title": "Chicago Cubs Team Checklist",
+            "player_names": [
+                ""
+            ],
+            "player_teams": [
+                "Chicago Cubs"
+            ]
+        },
+        {
+            "card_no": 639,
+            "card_title": "",
+            "player_names": [
+                "Steve Kline"
+            ],
+            "player_teams": [
+                "Cleveland Indians"
+            ]
+        },
+        {
+            "card_no": 640,
+            "card_title": "",
+            "player_names": [
+                "Harmon Killebrew"
+            ],
+            "player_teams": [
+                "Minnesota Twins"
+            ]
+        },
+        {
+            "card_no": 641,
+            "card_title": "",
+            "player_names": [
+                "Jim Northrup"
+            ],
+            "player_teams": [
+                "Baltimore Orioles"
+            ]
+        },
+        {
+            "card_no": 642,
+            "card_title": "",
+            "player_names": [
+                "Mike Phillips"
+            ],
+            "player_teams": [
+                "San Francisco Giants"
+            ]
+        },
+        {
+            "card_no": 643,
+            "card_title": "",
+            "player_names": [
+                "Brent Strom"
+            ],
+            "player_teams": [
+                "San Diego Padres"
+            ]
+        },
+        {
+            "card_no": 644,
+            "card_title": "",
+            "player_names": [
+                "Bill Fahey"
+            ],
+            "player_teams": [
+                "Texas Rangers"
+            ]
+        },
+        {
+            "card_no": 645,
+            "card_title": "",
+            "player_names": [
+                "Danny Cater"
+            ],
+            "player_teams": [
+                "Boston Red Sox"
+            ]
+        },
+        {
+            "card_no": 646,
+            "card_title": "Checklist (#529-660)",
+            "player_names": [
+                ""
+            ],
+            "player_teams": [
+                ""
+            ]
+        },
+        {
+            "card_no": 647,
+            "card_title": "",
+            "player_names": [
+                "Claudell Washington"
+            ],
+            "player_teams": [
+                "Oakland Athletics"
+            ]
+        },
+        {
+            "card_no": 648,
+            "card_title": "",
+            "player_names": [
+                "Dave Pagan"
+            ],
+            "player_teams": [
+                "New York Yankees"
+            ]
+        },
+        {
+            "card_no": 649,
+            "card_title": "",
+            "player_names": [
+                "Jack Heidemann"
+            ],
+            "player_teams": [
+                "St. Louis Cardinals"
+            ]
+        },
+        {
+            "card_no": 650,
+            "card_title": "",
+            "player_names": [
+                "Dave May"
+            ],
+            "player_teams": [
+                "Atlanta Braves"
+            ]
+        },
+        {
+            "card_no": 651,
+            "card_title": "",
+            "player_names": [
+                "John Morlan"
+            ],
+            "player_teams": [
+                "Pittsburgh Pirates"
+            ]
+        },
+        {
+            "card_no": 652,
+            "card_title": "",
+            "player_names": [
+                "Lindy McDaniel"
+            ],
+            "player_teams": [
+                "Kansas City Royals"
+            ]
+        },
+        {
+            "card_no": 653,
+            "card_title": "",
+            "player_names": [
+                "Lee Richard"
+            ],
+            "player_teams": [
+                "Chicago White Sox"
+            ]
+        },
+        {
+            "card_no": 654,
+            "card_title": "",
+            "player_names": [
+                "Jerry Terrell"
+            ],
+            "player_teams": [
+                "Minnesota Twins"
+            ]
+        },
+        {
+            "card_no": 655,
+            "card_title": "",
+            "player_names": [
+                "Rico Carty"
+            ],
+            "player_teams": [
+                "Cleveland Indians"
+            ]
+        },
+        {
+            "card_no": 656,
+            "card_title": "",
+            "player_names": [
+                "Bill Plummer"
+            ],
+            "player_teams": [
+                "Cincinnati Reds"
+            ]
+        },
+        {
+            "card_no": 657,
+            "card_title": "",
+            "player_names": [
+                "Bob Oliver"
+            ],
+            "player_teams": [
+                "Baltimore Orioles"
+            ]
+        },
+        {
+            "card_no": 658,
+            "card_title": "",
+            "player_names": [
+                "Vic Harris"
+            ],
+            "player_teams": [
+                "Chicago Cubs"
+            ]
+        },
+        {
+            "card_no": 659,
+            "card_title": "",
+            "player_names": [
+                "Bob Apodaca"
+            ],
+            "player_teams": [
+                "New York Mets"
+            ]
+        },
+        {
+            "card_no": 660,
+            "card_title": "",
+            "player_names": [
+                "Hank Aaron"
+            ],
+            "player_teams": [
+                "Milwaukee Brewers"
+            ]
+        }
+    ]
+}
