@@ -1,0 +1,54 @@
+1 Yogi Berra - New York Yankees -
+2 Sid Gordon - Boston Braves -
+3 Ferris Fain - Philadelphia Athletics -
+4 Vern Stephens - Boston Red Sox -
+5 Phil Rizzuto - New York Yankees -
+6 Allie Reynolds - New York Yankees -
+7 Howie Pollet - St. Louis Cardinals -
+8 Early Wynn - Cleveland Indians -
+9 Roy Sievers - St. Louis Browns -
+10 Mel Parnell - Boston Red Sox -
+11 Gene Hermanski - Brooklyn Dodgers -
+12 Jim Hegan - Cleveland Indians -
+13 Dale Mitchell - Cleveland Indians -
+14 Wayne Terwilliger - Chicago Cubs -
+15 Ralph Kiner - Pittsburgh Pirates -
+16 Preacher Roe - Brooklyn Dodgers -
+17 Dave Bell - Pittsburgh Pirates -
+18 Jerry Coleman - New York Yankees -
+19 Dick Kokos - St. Louis Browns -
+20 Dom DiMaggio - Boston Red Sox -
+21 Larry Jansen - New York Giants -
+22 Bob Feller - Cleveland Indians -
+23 Ray Boone - Cleveland Indians -
+24 Hank Bauer - New York Yankees -
+25 Cliff Chambers - Pittsburgh Pirates -
+26 Luke Easter - Cleveland Indians -
+27 Wally Westlake - Pittsburgh Pirates -
+28 Elmer Valo - Philadelphia Athletics -
+29 Bob Kennedy - Cleveland Indians -
+30 Warren Spahn - Boston Braves -
+31 Gil Hodges - Brooklyn Dodgers -
+32 Hank Thompson - New York Giants -
+33 Bill Werle - Pittsburgh Pirates -
+34 Grady Hatton - Cincinnati Reds -
+35 Al Rosen - Cleveland Indians -
+36 Gus Zernial - Chicago White Sox -
+36 Gus Zernial - Philadelphia Athletics -
+37 Wes Westrum - New York Giants -
+38 Duke Snider - Brooklyn Dodgers -
+39 Ted Kluszewski - Cincinnati Reds -
+40 Mike Garcia - Cleveland Indians -
+41 Whitey Lockman - New York Giants -
+42 Ray Scarborough - Boston Red Sox -
+43 Maurice McDermott - Boston Red Sox -
+44 Sid Hudson - Washington Senators -
+45 Andy Seminick - Philadelphia Phillies -
+46 Billy Goodman - Boston Red Sox -
+47 Tommy Glaviano - St. Louis Cardinals -
+48 Eddie Stanky - New York Giants -
+49 Al Zarilla - Chicago White Sox -
+50 Monte Irvin - New York Giants -
+51 Eddie Robinson - Chicago White Sox -
+52a Tommy Holmes - Boston Braves -
+52b Tommy Holmes - Hartford Chiefs -
