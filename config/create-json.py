@@ -1,12 +1,17 @@
 import json
 
-with open('/Users/chrisgreatens/Workspace/beego-1/config/sports/baseball/1951/1951-bowman.txt', 'r') as file:
+with open('/Users/chrisgreatens/Workspace/csadlskdfjsdfjkf/config/sports/baseball/1957/1957-topps.txt', 'r') as file:
     for line in file:
         tmp = line.split(' ', 1)
         card_no = tmp[0]
         tmp = tmp[1].split('-')
-        player_names = tmp[0].strip().split(',')
-        team_names = tmp[1].strip().split(',')
+
+        tmp_names = tmp[0].strip().split(',')
+        player_names = [name.strip() for name in tmp_names]
+
+        tmp_names = tmp[1].strip().split(',')
+        team_names = [name.strip() for name in tmp_names]
+
         card_title = tmp[2].strip()
         card_rec = {
             "card_no": card_no,

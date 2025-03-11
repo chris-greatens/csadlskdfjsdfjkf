@@ -15,16 +15,16 @@
         "description": "1951 Topps Connie Macks All-stars base set"
     },
     "cards": [
-        {"card_no": "NNO", "card_title": "St. Louis Cardinals", "player_names": [""], "player_teams": ["Grover C. Alexander"]},
-        {"card_no": "NNO", "card_title": "Philadelphia Athletics", "player_names": [""], "player_teams": ["Mickey Cochrane"]},
-        {"card_no": "NNO", "card_title": "Chicago White Sox", "player_names": [""], "player_teams": ["Eddie Collins"]},
-        {"card_no": "NNO", "card_title": "Boston Beaneaters", "player_names": [""], "player_teams": ["Jimmy Collins"]},
-        {"card_no": "NNO", "card_title": "New York Yankees", "player_names": [""], "player_teams": ["Lou Gehrig"]},
-        {"card_no": "NNO", "card_title": "Washington Senators", "player_names": [""], "player_teams": ["Walter Johnson"]},
-        {"card_no": "NNO", "card_title": "Philadelphia Athletics", "player_names": [""], "player_teams": ["Connie Mack"]},
-        {"card_no": "NNO", "card_title": "New York Giants", "player_names": [""], "player_teams": ["Christy Mathewson"]},
-        {"card_no": "NNO", "card_title": "New York Yankees", "player_names": [""], "player_teams": ["Babe Ruth"]},
-        {"card_no": "NNO", "card_title": "Cleveland Indians", "player_names": [""], "player_teams": ["Tris Speaker"]},
-        {"card_no": "NNO", "card_title": "Pittsburgh Pirates", "player_names": [""], "player_teams": ["Honus Wagner"]}    
+        {"card_no": "NNO", "card_title": "", "player_names": ["Grover C. Alexander"], "player_teams": ["St. Louis Cardinals"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Mickey Cochrane"], "player_teams": ["Philadelphia Athletics"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Eddie Collins"], "player_teams": ["Chicago White Sox"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Jimmy Collins"], "player_teams": ["Boston Beaneaters"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Lou Gehrig"], "player_teams": ["New York Yankees"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Walter Johnson"], "player_teams": ["Washington Senators"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Connie Mack"], "player_teams": ["Philadelphia Athletics"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Christy Mathewson"], "player_teams": ["New York Giants"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Babe Ruth"], "player_teams": ["New York Yankees"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Tris Speaker"], "player_teams": ["Cleveland Indians"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Honus Wagner"], "player_teams": ["Pittsburgh Pirates"]}  
     ]
 }

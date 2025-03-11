@@ -114,7 +114,7 @@
         {"card_no": "97", "card_title": "New York Yankees Team", "player_names": [""], "player_teams": ["New York Yankees"]},
         {"card_no": "98", "card_title": "", "player_names": ["Alvin Dark"], "player_teams": ["St. Louis Cardinals"]},
         {"card_no": "99", "card_title": "", "player_names": ["Bob Keegan"], "player_teams": ["Chicago White Sox"]},
-        {"card_no": "100", "card_title": "League Presidents", "player_names": ["Will Harridge", " Warren Giles"], "player_teams": [""]},
+        {"card_no": "100", "card_title": "League Presidents", "player_names": ["Will Harridge", "Warren Giles"], "player_teams": [""]},
         {"card_no": "101", "card_title": "", "player_names": ["Chuck Stobbs"], "player_teams": ["Washington Senators"]},
         {"card_no": "102", "card_title": "", "player_names": ["Ray Boone"], "player_teams": ["Detroit Tigers"]},
         {"card_no": "103", "card_title": "", "player_names": ["Joe Nuxhall"], "player_teams": ["Cincinnati Reds"]},
@@ -414,19 +414,19 @@
         {"card_no": "397", "card_title": "", "player_names": ["Roy Smalley"], "player_teams": ["Philadelphia Phillies"]},
         {"card_no": "398", "card_title": "", "player_names": ["Al Cicotte"], "player_teams": ["New York Yankees"]},
         {"card_no": "399", "card_title": "", "player_names": ["Billy Consolo"], "player_teams": ["Boston Red Sox"]},
-        {"card_no": "400", "card_title": "Dodgers' Sluggers", "player_names": ["Carl Furillo", " Gil Hodges", " Roy Campanella", " Duke Snider"], "player_teams": ["Brooklyn Dodgers"]},
+        {"card_no": "400", "card_title": "Dodgers' Sluggers", "player_names": ["Carl Furillo", "Gil Hodges", "Roy Campanella", "Duke Snider"], "player_teams": ["Brooklyn Dodgers"]},
         {"card_no": "401", "card_title": "", "player_names": ["Earl Battey"], "player_teams": ["Chicago White Sox"]},
         {"card_no": "402", "card_title": "", "player_names": ["Jim Pisoni"], "player_teams": ["Kansas City Athletics"]},
         {"card_no": "403", "card_title": "", "player_names": ["Dick Hyde"], "player_teams": ["Washington Senators"]},
         {"card_no": "404", "card_title": "", "player_names": ["Harry Anderson"], "player_teams": ["Philadelphia Phillies"]},
         {"card_no": "405", "card_title": "", "player_names": ["Duke Maas"], "player_teams": ["Detroit Tigers"]},
         {"card_no": "406", "card_title": "", "player_names": ["Bob Hale"], "player_teams": ["Baltimore Orioles"]},
-        {"card_no": "407", "card_title": "Yankees' Power Hitters", "player_names": ["Mickey Mantle", " Yogi Berra"], "player_teams": ["New York Yankees"]},
+        {"card_no": "407", "card_title": "Yankees' Power Hitters", "player_names": ["Mickey Mantle", "Yogi Berra"], "player_teams": ["New York Yankees"]},
         {"card_no": "NNO", "card_title": "Checklist Series 1/2", "player_names": [""], "player_teams": [""]},
         {"card_no": "NNO", "card_title": "Checklist Series 2/3", "player_names": [""], "player_teams": [""]},
         {"card_no": "NOO", "card_title": "Checklist Series 3/4", "player_names": [""], "player_teams": [""]},
         {"card_no": "NNO", "card_title": "Checklist Series 4/5", "player_names": [""], "player_teams": [""]},
         {"card_no": "NNO", "card_title": "Contest Cards", "player_names": [""], "player_teams": [""]},
-        {"card_no": "NNO", "card_title": "Lucky Penny Card", "player_names": [""], "player_teams": [""]} 
+        {"card_no": "NNO", "card_title": "Lucky Penny Card", "player_names": [""], "player_teams": [""]}
     ]
 }

@@ -287,8 +287,8 @@
 287 Jim Blackburn - Cincinnati Reds -
 288 Bobby Adams - Cincinnati Reds -
 289 Cliff Mapes - New York Yankees -
-290 Bill Dickey CO - New York Yankees -
-291 Tommy Henrich CO - New York Yankees -
+290 Bill Dickey - New York Yankees -
+291 Tommy Henrich - New York Yankees -
 292 Eddie Pellagrini - Philadelphia Phillies -
 293 Ken Johnson - Philadelphia Phillies -
 294 Jocko Thompson - Philadelphia Phillies -

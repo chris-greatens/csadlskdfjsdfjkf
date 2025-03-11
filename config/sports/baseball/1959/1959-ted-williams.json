@@ -16,7 +16,7 @@
     },
     "cards": [
         {"card_no": "1", "card_title": "The Early Years", "player_names": ["Ted Williams"], "player_teams": ["Boston Red Sox"]},
-        {"card_no": "2", "card_title": "Ted's Idol Babe Ruth", "player_names": ["Ted Williams", " Babe Ruth"], "player_teams": ["Boston Red Sox", " New York Yankees"]},
+        {"card_no": "2", "card_title": "Ted's Idol Babe Ruth", "player_names": ["Ted Williams", "Babe Ruth"], "player_teams": ["Boston Red Sox", "New York Yankees"]},
         {"card_no": "3", "card_title": "Practice Makes Perfect", "player_names": ["Ted Williams"], "player_teams": ["Boston Red Sox"]},
         {"card_no": "4", "card_title": "1934 Ted Learns the Fine Points", "player_names": ["Ted Williams"], "player_teams": ["Boston Red Sox"]},
         {"card_no": "5", "card_title": "Ted's Fame Spreads 1935", "player_names": ["Ted Williams"], "player_teams": ["Boston Red Sox"]},
@@ -32,7 +32,7 @@
         {"card_no": "15", "card_title": "1940 Licks Sophomore Jinx", "player_names": ["Ted Williams"], "player_teams": ["Boston Red Sox"]},
         {"card_no": "16", "card_title": "1941 Williams' Greatest Year", "player_names": ["Ted Williams"], "player_teams": ["Boston Red Sox"]},
         {"card_no": "17", "card_title": "1941 How Ted Hit .400", "player_names": ["Ted Williams"], "player_teams": ["Boston Red Sox"]},
-        {"card_no": "18", "card_title": "1941 All Star Hero", "player_names": ["Ted Williams"], "player_teams": ["Boston Red Sox"]},
+        {"card_no": "18", "card_title": "1941 All-Star Hero", "player_names": ["Ted Williams"], "player_teams": ["Boston Red Sox"]},
         {"card_no": "19", "card_title": "1942 Ted Wins Triple Crown", "player_names": ["Ted Williams"], "player_teams": ["Boston Red Sox"]},
         {"card_no": "20", "card_title": "1942 On to Naval Training", "player_names": ["Ted Williams"], "player_teams": ["Boston Red Sox"]},
         {"card_no": "21", "card_title": "1943 Honors for Williams", "player_names": ["Ted Williams"], "player_teams": ["Boston Red Sox"]},
@@ -77,7 +77,7 @@
         {"card_no": "60", "card_title": "1957 More Records for Ted", "player_names": ["Ted Williams"], "player_teams": ["Boston Red Sox"]},
         {"card_no": "61", "card_title": "1957 Outfielder Ted", "player_names": ["Ted Williams"], "player_teams": ["Boston Red Sox"]},
         {"card_no": "62", "card_title": "1958 Sixth Batting Title for Ted", "player_names": ["Ted Williams"], "player_teams": ["Boston Red Sox"]},
-        {"card_no": "63", "card_title": "Ted's All Star Record", "player_names": ["Ted Williams"], "player_teams": ["Boston Red Sox"]},
+        {"card_no": "63", "card_title": "Ted's All-Star Record", "player_names": ["Ted Williams"], "player_teams": ["Boston Red Sox"]},
         {"card_no": "64", "card_title": "1958 Daughter and Famous Daddy", "player_names": ["Ted Williams"], "player_teams": ["Boston Red Sox"]},
         {"card_no": "65", "card_title": "30 Aug 58", "player_names": ["Ted Williams"], "player_teams": ["Boston Red Sox"]},
         {"card_no": "66", "card_title": "1958 Powerhouse", "player_names": ["Ted Williams"], "player_teams": ["Boston Red Sox"]},
@@ -94,6 +94,6 @@
         {"card_no": "77", "card_title": "Ted Relaxes", "player_names": ["Ted Williams"], "player_teams": ["Boston Red Sox"]},
         {"card_no": "78", "card_title": "Honors for Williams", "player_names": ["Ted Williams"], "player_teams": ["Boston Red Sox"]},
         {"card_no": "79", "card_title": "Where Ted Stands", "player_names": ["Ted Williams"], "player_teams": ["Boston Red Sox"]},
-        {"card_no": "80", "card_title": "Ted's Goals for 1959", "player_names": ["Ted Williams"], "player_teams": ["Boston Red Sox"]} 
+        {"card_no": "80", "card_title": "Ted's Goals for 1959", "player_names": ["Ted Williams"], "player_teams": ["Boston Red Sox"]}
     ]
 }

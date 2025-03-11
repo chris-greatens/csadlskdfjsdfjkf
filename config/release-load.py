@@ -2,7 +2,7 @@ import json
 import mariadb
 import sys
 
-with open('/Users/chrisgreatens/Workspace/beego-1/config/sports/baseball/1951/1951-bowman.json', 'r') as file:
+with open('/Users/chrisgreatens/Workspace/csadlskdfjsdfjkf/config/sports/baseball/1952/1952-berk-ross.json', 'r') as file:
     json_data = json.load(file)
 
 print(json_data['release'])
@@ -110,6 +110,8 @@ for card in cards:
     for player_name in card['player_names']:
         # If there is a player on this card
         if player_name:
+            player_name = player_name.trim()
+
             # Find the existing player record or insert one
             player_id = -1
 
@@ -153,6 +155,7 @@ for card in cards:
     for team_name in card['player_teams']:  
         # If there is a team for this card
         if team_name:
+            team_name = team_name.trim()
             # Find the existing team record or insert one
             team_id = -1
 

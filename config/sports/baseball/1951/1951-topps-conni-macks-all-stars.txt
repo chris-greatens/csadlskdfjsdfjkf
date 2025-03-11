@@ -1,11 +1,11 @@
-NNO - Grover C. Alexander - St. Louis Cardinals -
-NNO - Mickey Cochrane - Philadelphia Athletics -
-NNO - Eddie Collins - Chicago White Sox -
-NNO - Jimmy Collins - Boston Beaneaters -
-NNO - Lou Gehrig - New York Yankees -
-NNO - Walter Johnson - Washington Senators -
-NNO - Connie Mack - Philadelphia Athletics -
-NNO - Christy Mathewson - New York Giants -
-NNO - Babe Ruth - New York Yankees -
-NNO - Tris Speaker - Cleveland Indians -
-NNO - Honus Wagner - Pittsburgh Pirates -
+NNO Grover C. Alexander - St. Louis Cardinals -
+NNO Mickey Cochrane - Philadelphia Athletics -
+NNO Eddie Collins - Chicago White Sox -
+NNO Jimmy Collins - Boston Beaneaters -
+NNO Lou Gehrig - New York Yankees -
+NNO Walter Johnson - Washington Senators -
+NNO Connie Mack - Philadelphia Athletics -
+NNO Christy Mathewson - New York Giants -
+NNO Babe Ruth - New York Yankees -
+NNO Tris Speaker - Cleveland Indians -
+NNO Honus Wagner - Pittsburgh Pirates -
