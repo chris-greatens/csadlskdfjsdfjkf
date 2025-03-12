@@ -91,3 +91,31 @@ CREATE TABLE IF NOT EXISTS card_variations (
     FOREIGN KEY (variation_id) REFERENCES variations(id)
 );
 
+CREATE TABLE IF NOT EXISTS collectors (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    user_name VARCHAR(255) NOT NULL,
+    email_address VARCHAR(255) NOT NULL
+);
+
+CREATE TABLE IF NOT EXISTS conditions (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    item_condition INT NOT NULL,
+    condition_label VARCHAR(10),
+    condition_descr VARCHAR(50)
+);
+
+INSERT INTO conditions (item_condition, condition_label, condition_descr) VALUES (1, 'P', 'Poor'), (2, 'G', 'Good'), (3, 'VG', 'Very Good'), (4, 'VG-Ex', 'Very Good to Excellent'), (5, 'Ex', 'Excellent'), (6, 'ExMt', 'Excellent to Near Mint'), (7, 'NrMt', 'Near Mint'), (8, 'NrMt-Mt', 'Near Mint to Mint'), (9, 'Mint', 'Mint'), (10, 'GemMint', 'Gem Mint');
+
+CREATE TABLE IF NOT EXISTS collections (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    collector_id INT NOT NULL,
+    description VARCHAR(255)
+);
+
+CREATE TABLE IF NOT EXISTS collection_cards (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    card_id INT NOT NULL,
+    item_condition INT,
+    serial_no INT,
+    is_autographed BOOLEAN
+);
