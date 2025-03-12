@@ -115,7 +115,20 @@ CREATE TABLE IF NOT EXISTS collections (
 CREATE TABLE IF NOT EXISTS collection_cards (
     id INT AUTO_INCREMENT PRIMARY KEY,
     card_id INT NOT NULL,
-    item_condition INT,
+    condition_id INT,
     serial_no INT,
-    is_autographed BOOLEAN
+    is_autographed BOOLEAN,
+    FOREIGN KEY (card_id) REFERENCES cards(id),
+    FOREIGN KEY (condition_id) REFERENCES conditions(id)
+);
+
+CREATE TABLE IF NOT EXISTS set_registry_set_descriptions (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    description VARCHAR(255)
+);
+
+CREATE TABLE IF NOT EXISTS set_registry_set_defintions (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    card_id INT NOT NULL,
+    FOREIGN KEY (card_id) REFERENCES cards(id)
 );
