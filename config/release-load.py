@@ -2,7 +2,7 @@ import json
 import mariadb
 import sys
 
-with open('/Users/chrisgreatens/Workspace/csadlskdfjsdfjkf/config/sports/baseball/1953/1953-bowman-color.json', 'r') as file:
+with open('/Users/chrisgreatens/Workspace/csadlskdfjsdfjkf/config/sports/baseball/1954/1954-red-heart.json', 'r') as file:
     json_data = json.load(file)
 
 print(json_data['release'])
@@ -84,8 +84,18 @@ for card in cards:
     # Find the existing player record or insert one
     card_id = -1
     card_no = card['card_no']
-    card_title = card['card_title']
     try:
+        # Calculate the Card Title
+        if card['card_title'] != "":
+            card_title = card['card_title']
+        else:
+            card_title = ""
+            for player_name in card['player_names']:
+                if card_title == "":
+                    card_title = player_name
+                else:
+                    card_title = card_title + ', ' + player_name
+
         cur.execute("SELECT id FROM cards WHERE set_id = ? AND card_no = ? AND card_title = ? LIMIT 1",
             (set_id,
              card_no,

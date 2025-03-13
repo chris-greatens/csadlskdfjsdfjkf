@@ -1,0 +1,52 @@
+{
+    "release": {
+        "year": 1954,
+        "brand": "Red Heart",
+        "release_name": "",
+        "category": 1,
+        "subcategory": 1,
+        "description": "1954 Red Heart base set with 33 cards in three series."
+    },
+    "set": {
+        "set_name": "Base",
+        "set_type": 1,
+        "is_autographed": 0,
+        "max_serial_num": 0,
+        "description": "1954 Red Heart base set"
+    },
+    "cards": [
+        {"card_no": "NNO", "card_title": "", "player_names": ["Richie Ashburn"], "player_teams": ["Philadelphia Phillies"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Frank Baumholtz"], "player_teams": ["Chicago Cubs"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Gus Bell"], "player_teams": ["Cincinnati Redlegs"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Billy Cox"], "player_teams": ["Brooklyn Dodgers"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Alvin Dark"], "player_teams": ["New York Giants"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Carl Erskine"], "player_teams": ["Brooklyn Dodgers"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Ferris Fain"], "player_teams": ["Chicago White Sox"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Dee Fondy"], "player_teams": ["Chicago Cubs"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Nellie Fox"], "player_teams": ["Chicago White Sox"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Jim Gilliam"], "player_teams": ["Brooklyn Dodgers"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Jim Hegan"], "player_teams": ["Cleveland Indians"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["George Kell"], "player_teams": ["Boston Red Sox"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Ted Kluszewski"], "player_teams": ["Cincinnati Redlegs"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Ralph Kiner"], "player_teams": ["Chicago Cubs"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Harvey Kuenn"], "player_teams": ["Detroit Tigers"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Bob Lemon"], "player_teams": ["Cleveland Indians"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Sherm Lollar"], "player_teams": ["Chicago White Sox"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Mickey Mantle"], "player_teams": ["New York Yankees"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Billy Martin"], "player_teams": ["New York Yankees"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Gil McDougald"], "player_teams": ["New York Yankees"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Roy McMillan"], "player_teams": ["Cincinnati Redlegs"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Minnie Minoso"], "player_teams": ["Chicago White Sox"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Stan Musial"], "player_teams": ["St. Louis Cardinals"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Billy Pierce"], "player_teams": ["Chicago White Sox"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Al Rosen"], "player_teams": ["Cleveland Indians"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Hank Sauer"], "player_teams": ["Chicago Cubs"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Red Schoendienst"], "player_teams": ["St. Louis Cardinals"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Enos Slaughter"], "player_teams": ["St. Louis Cardinals"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Duke Snider"], "player_teams": ["Brooklyn Dodgers"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Warren Spahn"], "player_teams": ["Milwaukee Braves"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Sammy White"], "player_teams": ["Boston Red Sox"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Eddie Yost"], "player_teams": ["Washington Senators"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Gus Zernial"], "player_teams": ["Philadelphia Athletics"]}
+    ]
+}

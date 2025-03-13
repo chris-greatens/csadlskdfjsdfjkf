@@ -41,6 +41,7 @@ CREATE TABLE IF NOT EXISTS sets (
     max_serial_num INT,
     description VARCHAR(255),
     CONSTRAINT UC_Sets UNIQUE (release_id, set_name, set_type)
+    FOREIGN KEY (release_id) REFERENCES releases(id),
 );
 
 CREATE TABLE IF NOT EXISTS cards (
@@ -48,6 +49,7 @@ CREATE TABLE IF NOT EXISTS cards (
     set_id INT NOT NULL,
     card_no VARCHAR(25) NOT NULL,
     card_title VARCHAR(100)
+    FOREIGN KEY (set_id) REFERENCES sets(id),
 );
 
 CREATE TABLE IF NOT EXISTS players (
