@@ -112,22 +112,24 @@ CREATE TABLE IF NOT EXISTS collections (
     description VARCHAR(255)
 );
 
-CREATE TABLE IF NOT EXISTS grading_company (
+CREATE TABLE IF NOT EXISTS grading_companies (
     id INT AUTO_INCREMENT PRIMARY KEY,
     company_name VARCHAR(255) NOT NULL,
     company_abbr VARCHAR(10) NOT NULL
 );
 
-INSERT INTO grading_company (company_name, company_abbr) VALUES ('Beckett Grading Services', 'BGS'), ('Professional Sports Authenticator', 'PSA'), ('Sportscard Guaranty Corporation', 'SGC');
+INSERT INTO grading_companies (company_name, company_abbr) VALUES ('Beckett Grading Services', 'BGS'), ('Professional Sports Authenticator', 'PSA'), ('Sportscard Guaranty Corporation', 'SGC');
 
 CREATE TABLE IF NOT EXISTS collection_cards (
     id INT AUTO_INCREMENT PRIMARY KEY,
+    collection_id INT NOT NULL,
     card_id INT NOT NULL,
     condition_id INT,
     serial_no INT,
     is_autographed BOOLEAN,
     grading_co_id INT,
     grading_grade_id INT,
+    FOREIGN KEY (collection_id) REFERENCES collections(id),
     FOREIGN KEY (card_id) REFERENCES cards(id),
     FOREIGN KEY (condition_id) REFERENCES conditions(id),
     FOREIGN KEY (grading_co_id) REFERENCES grading_companies(id)
