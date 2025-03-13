@@ -1,6 +1,6 @@
 import json
 
-with open('/Users/chrisgreatens/Workspace/csadlskdfjsdfjkf/config/sports/baseball/1957/1957-topps.txt', 'r') as file:
+with open('/Users/chrisgreatens/Workspace/csadlskdfjsdfjkf/config/sports/baseball/1952/1952-bowman.txt', 'r') as file:
     for line in file:
         tmp = line.split(' ', 1)
         card_no = tmp[0]
