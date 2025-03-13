@@ -2,7 +2,7 @@ import json
 import mariadb
 import sys
 
-with open('/Users/chrisgreatens/Workspace/csadlskdfjsdfjkf/config/sports/baseball/1952/1952-bowman.json', 'r') as file:
+with open('/Users/chrisgreatens/Workspace/csadlskdfjsdfjkf/config/sports/baseball/1953/1953-bowman-color.json', 'r') as file:
     json_data = json.load(file)
 
 print(json_data['release'])
