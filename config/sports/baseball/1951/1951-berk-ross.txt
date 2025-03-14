@@ -1,0 +1,72 @@
+1-1 Al Rosen - Cleveland Indians -
+1-2 Bob Lemon - Cleveland Indians -
+1-3 Phil Rizzuto - New York Yankees -
+1-4 Hank Bauer - New York Yankees -
+1-5 Billy Johnson - New York Yankees -
+1-6 Jerry Coleman - New York Yankees -
+1-7 Johnny Mize - New York Yankees -
+1-8 Dom DiMaggio - Boston Red Sox -
+1-9 Richie Ashburn - Philadelphia Phillies -
+1-10 Del Ennis - Philadelphia Phillies -
+1-11 Bob Cousy - Holy Cross Crusaders -
+1-12 Dick Schnittker - Ohio State Buckeyes -
+1-13 Ezzard Charles -  -
+1-14 Leon Hart - Notre Dame Fighting Irish -
+1-15 James Martin - Notre Dame Fighting Irish -
+1-16 Ben Hogan -  -
+1-17 Bill Durnan - Montreal Canadiens -
+1-18 Bill Quackenbush - Boston Bruins -
+2-1 Stan Musial - St. Louis Cardinals -
+2-2 Warren Spahn - Boston Braves -
+2-3 Tommy Henrich - New York Yankees -
+2-4 Yogi Berra - New York Yankees -
+2-5 Joe DiMaggio - New York Yankees -
+2-6 Bobby Brown - New York Yankees -
+2-7 Granville Hamner - Philadelphia Phillies -
+2-8 Willie Jones - Philadelphia Phillies -
+2-9 Stanley Lopata - Philadelphia Phillies -
+2-10 Mike Goliat - Philadelphia Phillies -
+2-11 Sherman White - LIU-Brooklyn Blackbirds -
+2-12 Joe Maxim -  -
+2-13 Sugar Ray Robinson -  -
+2-14 Doak Walker - SMU Mustangs -
+2-15 Emil Sitko - Notre Dame Fighting Irish -
+2-16 Jack Stewart - Detroit Red Wings -
+2-17 Dick Button -  -
+2-18 Melvin Patton -  -
+3-1 Ralph Kiner - Pittsburgh Pirates -
+3-2 Billy Goodman - Boston Red Sox -
+3-3 Allie Reynolds - New York Yankees -
+3-4 Vic Raschi - New York Yankees -
+3-5 Joe Page - New York Yankees -
+3-6 Eddie Lopat - New York Yankees -
+3-7 Andy Seminick - Philadelphia Phillies -
+3-8 Dick Sisler - Philadelphia Phillies -
+3-9 Eddie Waitkus - Philadelphia Phillies -
+3-10 Ken Heintzelman - Philadelphia Phillies -
+3-11 Paul Unruh - Bradley Braves -
+3-12 Jake La Motta -  -
+3-13 Ike Williams -  -
+3-14 Wade Walker - Oklahoma Sooners -
+3-15 Rodney Franz - California Golden Bears -
+3-16 Sid Abel - Detroit Red Wings -
+3-17 Yvonne Sherman -  -
+3-18 Jesse Owens -  -
+4-1 Gene Woodling - New York Yankees -
+4-2 Cliff Mapes - New York Yankees -
+4-3 Fred Sanford - New York Yankees -
+4-4 Tommy Byrne - New York Yankees -
+4-5 Whitey Ford - New York Yankees -
+4-6 Jim Konstanty - Philadelphia Phillies -
+4-7 Russ Meyer - Philadelphia Phillies -
+4-8 Robin Roberts - Philadelphia Phillies -
+4-9 Curt Simmons - Philadelphia Phillies -
+4-10 Sam Jethroe - Boston Braves -
+4-11 Bill Sharman - USC Trojans -
+4-12 Sammy Saddler -  -
+4-13 Margaret Osbourne DuPont - tennis -
+4-14 Arnold Galiffa - Army Black Knights -
+4-15 Charles Justice - North Carolina Tar Heels -
+4-16 Glenn Cunningham -  -
+4-17 Gregory Rice -  -
+4-18 Harrison Dillard -  -
