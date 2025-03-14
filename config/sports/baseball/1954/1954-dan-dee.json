@@ -1,0 +1,48 @@
+{
+    "release": {
+        "year": 1954,
+        "brand": "Dan-Dee",
+        "release_name": "",
+        "category": 1,
+        "subcategory": 1,
+        "description": "1954 Dan-Dee base set with 29 cards."
+    },
+    "set": {
+        "set_name": "Base",
+        "set_type": 1,
+        "is_autographed": 0,
+        "max_serial_num": 0,
+        "description": "1954 Dan-Dee base set"
+    },
+    "cards": [
+        {"card_no": "NNO", "card_title": "", "player_names": ["Bobby Avila"], "player_teams": ["Cleveland Indians"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Hank Bauer"], "player_teams": ["New York Yankees"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Walker Cooper"], "player_teams": ["Pittsburgh Pirates"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Larry Doby"], "player_teams": ["Cleveland Indians"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Luke Easter"], "player_teams": ["Cleveland Indians"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Bob Feller"], "player_teams": ["Cleveland Indians"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Bob Friend"], "player_teams": ["Pittsburgh Pirates"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Mike Garcia"], "player_teams": ["Cleveland Indians"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Sid Gordon"], "player_teams": ["Pittsburgh Pirates"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Jim Hegan"], "player_teams": ["Cleveland Indians"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Gil Hodges"], "player_teams": ["Brooklyn Dodgers"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Art Houtteman"], "player_teams": ["Cleveland Indians"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Monte Irvin"], "player_teams": ["New York Giants"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Paul LaPalme"], "player_teams": ["Pittsburgh Pirates"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Bob Lemon"], "player_teams": ["Cleveland Indians"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Al Lopez"], "player_teams": ["Cleveland Indians"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Mickey Mantle"], "player_teams": ["New York Yankees"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Dale Mitchell"], "player_teams": ["Cleveland Indians"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Phil Rizzuto"], "player_teams": ["New York Yankees"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Curt Roberts"], "player_teams": ["Pittsburgh Pirates"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Al Rosen"], "player_teams": ["Cleveland Indians"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Red Schoendienst"], "player_teams": ["St. Louis Cardinals"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Paul Smith"], "player_teams": ["Pittsburgh Pirates"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Duke Snider"], "player_teams": ["Brooklyn Dodgers"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["George Strickland"], "player_teams": ["Cleveland Indians"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Max Surkont"], "player_teams": ["Pittsburgh Pirates"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Frank Thomas"], "player_teams": ["Pittsburgh Pirates"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Wally Westlake"], "player_teams": ["Cleveland Indians"]},
+        {"card_no": "NNO", "card_title": "", "player_names": ["Early Wynn"], "player_teams": ["Cleveland Indians"]}
+    ]
+}
