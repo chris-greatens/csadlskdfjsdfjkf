@@ -1,6 +1,6 @@
 import json
 
-with open('/Users/chrisgreatens/Workspace/csadlskdfjsdfjkf/config/sports/baseball/1954/1954-red-heart.txt', 'r') as file:
+with open('/Users/chrisgreatens/Workspace/csadlskdfjsdfjkf/config/sports/baseball/1950/1950-bowman.txt', 'r') as file:
     for line in file:
         tmp = line.split(' ', 1)
         card_no = tmp[0]
@@ -12,12 +12,16 @@ with open('/Users/chrisgreatens/Workspace/csadlskdfjsdfjkf/config/sports/basebal
         tmp_names = tmp[1].strip().split(',')
         team_names = [name.strip() for name in tmp_names]
 
-        card_title = tmp[2].strip()
+        # This just catches RC for rookie cards at the moment, but can expand as needed.
+        card_attributes = tmp[2].strip()
+
+        card_title = tmp[3].strip()
         card_rec = {
             "card_no": card_no,
             "card_title": '',
             "player_names": player_names,
             "player_teams": team_names,
+            "card_attributes": card_attributes,
             "card_title": card_title
         }
         card_output = json.dumps(card_rec) + ','

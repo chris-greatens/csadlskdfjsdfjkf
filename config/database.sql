@@ -48,6 +48,7 @@ CREATE TABLE IF NOT EXISTS cards (
     id INT AUTO_INCREMENT PRIMARY KEY,
     set_id INT NOT NULL,
     card_no VARCHAR(25) NOT NULL,
+    is_rookie_card BOOLEAN,
     card_title VARCHAR(100)
     FOREIGN KEY (set_id) REFERENCES sets(id),
 );

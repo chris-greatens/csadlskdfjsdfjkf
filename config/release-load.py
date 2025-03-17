@@ -2,7 +2,7 @@ import json
 import mariadb
 import sys
 
-with open('/Users/chrisgreatens/Workspace/csadlskdfjsdfjkf/config/sports/baseball/1954/1954-red-heart.json', 'r') as file:
+with open('/Users/chrisgreatens/Workspace/csadlskdfjsdfjkf/config/sports/baseball/1950/1950-bowman.json', 'r') as file:
     json_data = json.load(file)
 
 print(json_data['release'])
@@ -84,6 +84,7 @@ for card in cards:
     # Find the existing player record or insert one
     card_id = -1
     card_no = card['card_no']
+    is_rookie_card = 1 if card['card_attributes'] == 'RC' else 0
     try:
         # Calculate the Card Title
         if card['card_title'] != "":
@@ -107,9 +108,10 @@ for card in cards:
         sys.exit(1)
     if (card_id == -1):
         try:
-            cur.execute("INSERT INTO cards (set_id, card_no, card_title) VALUES (?,?,?)",
+            cur.execute("INSERT INTO cards (set_id, card_no, is_rookie_card, card_title) VALUES (?,?,?,?)",
             (set_id,
              card_no,
+             is_rookie_card,
              card_title))
         except mariadb.Error as e:
             print(f"Error inserting card record into database: {e}")
