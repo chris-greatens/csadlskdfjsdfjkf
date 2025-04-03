@@ -4,7 +4,18 @@ from urllib.error import URLError
 from bs4 import BeautifulSoup
 import json
 import re
+from openai import OpenAI
+import os
 
+def use_ai_to_determine_card_details(card_no, card_set):
+    client = OpenAI()
+
+    input = f"Provide a JSON object containing the card number, card title, player names, and team names for card number {card_no} from the {card_set} baseball set. Use the labels card_no, card_title, player_names, and player_teams."
+    response = client.responses.create(model="gpt-4o", input=input)
+
+    print(response.output_text)
+    exit(0)
+    
 def determine_attribute(text_to_search, attribute):
     found_attribute = False
     found = re.search(attribute, text_to_search)
@@ -32,7 +43,6 @@ def parse_line(line, card_output):
     card_no = tmp[0]
 
     # Is this a checklist? If so, it will have a dash, but the dash is usually the divider between name and team
-    print(tmp[1])
     if re.search('Checklist', tmp[1]):
         card_title = tmp[1]
     else:
@@ -69,6 +79,7 @@ def parse_line(line, card_output):
             team_names = [name.strip() for name in tmp_names]
             if is_team(team_names[0]) == False:
                 print('Not a team: ' + line)
+                use_ai_to_determine_card_details(card_no, "1960 Topps")
                 return
 
     card_rec = {
@@ -83,7 +94,6 @@ def parse_line(line, card_output):
     }
     card_output = card_output + json.dumps(card_rec) + ','
 
-# url_to_parse = 'https://www.cardboardconnection.com/1960-fleer-baseball-cards'
 url_to_parse = 'https://www.cardboardconnection.com/1960-topps-baseball-cards-2'
 try:
     html = urlopen(url_to_parse)
